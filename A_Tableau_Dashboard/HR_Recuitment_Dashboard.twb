@@ -1,0 +1,2082 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20263.26.1022.1645                               -->
+<workbook _.fcp.WorkbookFingerprinting.true...author-id='23e4f9531e2fa23346a69155f226d7d979f152763ca3b0549fb9beb36cc70f36' _.fcp.WorkbookFingerprinting.true...creator-author-id='23e4f9531e2fa23346a69155f226d7d979f152763ca3b0549fb9beb36cc70f36' _.fcp.WorkbookFingerprinting.true...creator-license-type='free' _.fcp.WorkbookFingerprinting.true...creator-machine-id='e4bd46b8d7703e41d399effd387b057a01f76290d89f0aba35d94b5ecb892a6c' _.fcp.WorkbookFingerprinting.true...license-type='free' _.fcp.WorkbookFingerprinting.true...machine-id='e4bd46b8d7703e41d399effd387b057a01f76290d89f0aba35d94b5ecb892a6c' original-version='18.1' source-build='2026.3.0 (20263.26.1022.1645)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AccessibleZoneTabOrder />
+    <AnimationOnByDefault />
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+    <_.fcp.WorkbookFingerprinting.true...WorkbookFingerprinting />
+    <ZoneBackgroundTransparency />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource hasconnection='false' inline='true' name='Parameters' version='18.1'>
+      <aliases enabled='yes' />
+      <column caption='Target Days' datatype='integer' name='[Parameter 2177374019289088]' param-domain-type='range' role='measure' type='quantitative' value='90'>
+        <calculation class='tableau' formula='90' />
+        <range granularity='5' max='150' min='60' />
+      </column>
+    </datasource>
+    <datasource caption='Hires' inline='true' name='federated.0famfpv1h2v0yw1d7ul401mzp9tb' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Hires' name='textscan.0rtzh6100g7akq1978gl11ntgllc'>
+            <connection class='textscan' directory='C:/Users/chand/Desktop/Saichandana_reddyreddy_HRDataAnalyst_Tests/E_Reproducible_Work/Processed data' filename='Hires.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.0rtzh6100g7akq1978gl11ntgllc' name='Hires.csv' table='[Hires#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Offer_ID' ordinal='0' />
+            <column datatype='string' name='Application_ID' ordinal='1' />
+            <column datatype='string' name='Case_ID' ordinal='2' />
+            <column datatype='integer' name='Offer_Sequence' ordinal='3' />
+            <column datatype='date' name='Offer_Date' ordinal='4' />
+            <column datatype='date' name='Decision_Date' ordinal='5' />
+            <column datatype='string' name='Offer_Status' ordinal='6' />
+            <column datatype='date' name='Acceptance_Date' ordinal='7' />
+            <column datatype='date' name='Onboarding_Completion_Date' ordinal='8' />
+            <column datatype='date' name='Proposed_Start_Date' ordinal='9' />
+            <column datatype='string' name='Offer_Status_Clean' ordinal='10' />
+            <column datatype='date' name='Case_First_Posting.First_Posted_Date' ordinal='11' />
+            <column datatype='integer' name='Case_First_Posting.Num_Postings' ordinal='12' />
+            <column datatype='integer' name='Days_To_Fill' ordinal='13' />
+            <column datatype='string' name='Under_90' ordinal='14' />
+            <column datatype='string' name='Selection_Path' ordinal='15' />
+            <column datatype='string' name='Administration' ordinal='16' />
+            <column datatype='string' name='Division' ordinal='17' />
+            <column datatype='integer' name='Grade' ordinal='18' />
+            <column datatype='string' name='Job_Family' ordinal='19' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Offer_ID</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Offer_ID]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Offer_ID</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Application_ID</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Application_ID]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Application_ID</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Case_ID</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Case_ID]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Case_ID</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Offer_Sequence</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Offer_Sequence]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Offer_Sequence</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Offer_Date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[Offer_Date]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Offer_Date</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Decision_Date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[Decision_Date]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Decision_Date</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Offer_Status</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Offer_Status]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Offer_Status</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Acceptance_Date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[Acceptance_Date]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Acceptance_Date</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Onboarding_Completion_Date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[Onboarding_Completion_Date]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Onboarding_Completion_Date</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Proposed_Start_Date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[Proposed_Start_Date]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Proposed_Start_Date</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Offer_Status_Clean</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Offer_Status_Clean]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Offer_Status_Clean</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Case_First_Posting.First_Posted_Date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[Case_First_Posting.First_Posted_Date]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Case_First_Posting.First_Posted_Date</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Case_First_Posting.Num_Postings</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Case_First_Posting.Num_Postings]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Case_First_Posting.Num_Postings</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Days_To_Fill</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Days_To_Fill]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Days_To_Fill</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Under_90</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Under_90]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Under_90</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Selection_Path</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Selection_Path]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Selection_Path</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Administration</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Administration]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Administration</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Division</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Division]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Division</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Grade</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Grade]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Grade</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Job_Family</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Job_Family]</local-name>
+            <parent-name>[Hires.csv]</parent-name>
+            <remote-alias>Job_Family</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Hires.csv_53275874D757410E9F3A2031F942D606]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Acceptance Date' datatype='date' name='[Acceptance_Date]' role='dimension' type='ordinal' />
+      <column caption='Application ID' datatype='string' name='[Application_ID]' role='dimension' type='nominal' />
+      <column caption='% Met Target' datatype='real' default-format='p0.0%' name='[Calculation_2177374020448258]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='SUM(IF [Days_To_Fill] &lt; [Parameters].[Parameter 2177374019289088] THEN 1 ELSE 0 END) / COUNT([Offer_ID])' />
+      </column>
+      <column caption='Hires' datatype='integer' name='[Calculation_2177374021406723]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='COUNTD([Offer_ID])' />
+      </column>
+      <column caption='Target Days Label' datatype='integer' name='[Calculation_2177374021480452]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='MIN([Parameters].[Parameter 2177374019289088])' />
+      </column>
+      <column caption='Case First Posting.First Posted Date' datatype='date' name='[Case_First_Posting.First_Posted_Date]' role='dimension' type='ordinal' />
+      <column caption='Case First Posting.Num Postings' datatype='integer' name='[Case_First_Posting.Num_Postings]' role='measure' type='quantitative' />
+      <column caption='Case ID' datatype='string' name='[Case_ID]' role='dimension' type='nominal' />
+      <column caption='Days To Fill' datatype='integer' name='[Days_To_Fill]' role='measure' type='quantitative' />
+      <column caption='Decision Date' datatype='date' name='[Decision_Date]' role='dimension' type='ordinal' />
+      <column caption='Job Family' datatype='string' name='[Job_Family]' role='dimension' type='nominal' />
+      <column caption='Offer Date' datatype='date' name='[Offer_Date]' role='dimension' type='ordinal' />
+      <column caption='Offer ID' datatype='string' name='[Offer_ID]' role='dimension' type='nominal' />
+      <column caption='Offer Sequence' datatype='integer' name='[Offer_Sequence]' role='measure' type='quantitative' />
+      <column caption='Offer Status' datatype='string' name='[Offer_Status]' role='dimension' type='nominal' />
+      <column caption='Offer Status Clean' datatype='string' name='[Offer_Status_Clean]' role='dimension' type='nominal' />
+      <column caption='Onboarding Completion Date' datatype='date' name='[Onboarding_Completion_Date]' role='dimension' type='ordinal' />
+      <column caption='Proposed Start Date' datatype='date' name='[Proposed_Start_Date]' role='dimension' type='ordinal' />
+      <column caption='Selection Path' datatype='string' name='[Selection_Path]' role='dimension' type='nominal' />
+      <column caption='Under 90' datatype='string' name='[Under_90]' role='dimension' type='nominal' />
+      <column caption='Hires.csv' datatype='table' name='[__tableau_internal_object_id__].[Hires.csv_53275874D757410E9F3A2031F942D606]' role='measure' type='quantitative' />
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <datasource-dependencies datasource='Parameters'>
+        <column caption='Target Days' datatype='integer' name='[Parameter 2177374019289088]' param-domain-type='range' role='measure' type='quantitative' value='90'>
+          <calculation class='tableau' formula='90' />
+          <range granularity='5' max='150' min='60' />
+        </column>
+      </datasource-dependencies>
+      <object-graph>
+        <objects>
+          <object caption='Hires.csv' id='Hires.csv_53275874D757410E9F3A2031F942D606'>
+            <properties context=''>
+              <relation connection='textscan.0rtzh6100g7akq1978gl11ntgllc' name='Hires.csv' table='[Hires#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='Offer_ID' ordinal='0' />
+                  <column datatype='string' name='Application_ID' ordinal='1' />
+                  <column datatype='string' name='Case_ID' ordinal='2' />
+                  <column datatype='integer' name='Offer_Sequence' ordinal='3' />
+                  <column datatype='date' name='Offer_Date' ordinal='4' />
+                  <column datatype='date' name='Decision_Date' ordinal='5' />
+                  <column datatype='string' name='Offer_Status' ordinal='6' />
+                  <column datatype='date' name='Acceptance_Date' ordinal='7' />
+                  <column datatype='date' name='Onboarding_Completion_Date' ordinal='8' />
+                  <column datatype='date' name='Proposed_Start_Date' ordinal='9' />
+                  <column datatype='string' name='Offer_Status_Clean' ordinal='10' />
+                  <column datatype='date' name='Case_First_Posting.First_Posted_Date' ordinal='11' />
+                  <column datatype='integer' name='Case_First_Posting.Num_Postings' ordinal='12' />
+                  <column datatype='integer' name='Days_To_Fill' ordinal='13' />
+                  <column datatype='string' name='Under_90' ordinal='14' />
+                  <column datatype='string' name='Selection_Path' ordinal='15' />
+                  <column datatype='string' name='Administration' ordinal='16' />
+                  <column datatype='string' name='Division' ordinal='17' />
+                  <column datatype='integer' name='Grade' ordinal='18' />
+                  <column datatype='string' name='Job_Family' ordinal='19' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+    <datasource caption='Process_Standards' inline='true' name='federated.0nd229z1iswfsm1dyet4v0bks4xi' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Process_Standards' name='textscan.1ewnhxk1ps27s717uxhhq15nicsd'>
+            <connection class='textscan' directory='C:/Users/chand/Desktop/Saichandana_reddyreddy_HRDataAnalyst_Tests/E_Reproducible_Work/Assessment_Package/Data' filename='Process_Standards.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.1ewnhxk1ps27s717uxhhq15nicsd' name='Process_Standards.csv' table='[Process_Standards#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Stage_Code' ordinal='0' />
+            <column datatype='string' name='Stage_Name' ordinal='1' />
+            <column datatype='string' name='Phase' ordinal='2' />
+            <column datatype='string' name='Standard_Owner' ordinal='3' />
+            <column datatype='integer' name='Target_Calendar_Days' ordinal='4' />
+            <column datatype='string' name='Target_Basis' ordinal='5' />
+            <column datatype='string' name='Exception_Note' ordinal='6' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Process_Standards.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Stage_Code</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Stage_Code]</local-name>
+            <parent-name>[Process_Standards.csv]</parent-name>
+            <remote-alias>Stage_Code</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Process_Standards.csv_7047BFF75ADD4AA985A787E376BABE76]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Stage_Name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Stage_Name]</local-name>
+            <parent-name>[Process_Standards.csv]</parent-name>
+            <remote-alias>Stage_Name</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Process_Standards.csv_7047BFF75ADD4AA985A787E376BABE76]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Phase</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Phase]</local-name>
+            <parent-name>[Process_Standards.csv]</parent-name>
+            <remote-alias>Phase</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Process_Standards.csv_7047BFF75ADD4AA985A787E376BABE76]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Standard_Owner</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Standard_Owner]</local-name>
+            <parent-name>[Process_Standards.csv]</parent-name>
+            <remote-alias>Standard_Owner</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Process_Standards.csv_7047BFF75ADD4AA985A787E376BABE76]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Target_Calendar_Days</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Target_Calendar_Days]</local-name>
+            <parent-name>[Process_Standards.csv]</parent-name>
+            <remote-alias>Target_Calendar_Days</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Process_Standards.csv_7047BFF75ADD4AA985A787E376BABE76]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Target_Basis</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Target_Basis]</local-name>
+            <parent-name>[Process_Standards.csv]</parent-name>
+            <remote-alias>Target_Basis</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Process_Standards.csv_7047BFF75ADD4AA985A787E376BABE76]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Exception_Note</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Exception_Note]</local-name>
+            <parent-name>[Process_Standards.csv]</parent-name>
+            <remote-alias>Exception_Note</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Process_Standards.csv_7047BFF75ADD4AA985A787E376BABE76]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Exception Note' datatype='string' name='[Exception_Note]' role='dimension' type='nominal' />
+      <column caption='Stage Code' datatype='string' name='[Stage_Code]' role='dimension' type='nominal' />
+      <column caption='Stage Name' datatype='string' name='[Stage_Name]' role='dimension' type='nominal' />
+      <column caption='Standard Owner' datatype='string' name='[Standard_Owner]' role='dimension' type='nominal' />
+      <column caption='Target Basis' datatype='string' name='[Target_Basis]' role='dimension' type='nominal' />
+      <column caption='Target Calendar Days' datatype='integer' name='[Target_Calendar_Days]' role='measure' type='quantitative' />
+      <column caption='Process_Standards.csv' datatype='table' name='[__tableau_internal_object_id__].[Process_Standards.csv_7047BFF75ADD4AA985A787E376BABE76]' role='measure' type='quantitative' />
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='Process_Standards.csv' id='Process_Standards.csv_7047BFF75ADD4AA985A787E376BABE76'>
+            <properties context=''>
+              <relation connection='textscan.1ewnhxk1ps27s717uxhhq15nicsd' name='Process_Standards.csv' table='[Process_Standards#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='Stage_Code' ordinal='0' />
+                  <column datatype='string' name='Stage_Name' ordinal='1' />
+                  <column datatype='string' name='Phase' ordinal='2' />
+                  <column datatype='string' name='Standard_Owner' ordinal='3' />
+                  <column datatype='integer' name='Target_Calendar_Days' ordinal='4' />
+                  <column datatype='string' name='Target_Basis' ordinal='5' />
+                  <column datatype='string' name='Exception_Note' ordinal='6' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+    <datasource caption='Stage_Activities' inline='true' name='federated.0hwwxwz185cllu15zg0js18u87qt' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Stage_Activities' name='textscan.1f8avog01a7jss17coigo0vn2l83'>
+            <connection class='textscan' directory='C:/Users/chand/Desktop/Saichandana_reddyreddy_HRDataAnalyst_Tests/E_Reproducible_Work/Processed data' filename='Stage_Activities.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.1f8avog01a7jss17coigo0vn2l83' name='Stage_Activities.csv' table='[Stage_Activities#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Activity_ID' ordinal='0' />
+            <column datatype='string' name='Case_ID' ordinal='1' />
+            <column datatype='string' name='Stage_Code' ordinal='2' />
+            <column datatype='string' name='Activity_Label' ordinal='3' />
+            <column datatype='string' name='Responsible_Party' ordinal='4' />
+            <column datatype='date' name='Assigned_Date' ordinal='5' />
+            <column datatype='date' name='Work_Start_Date' ordinal='6' />
+            <column datatype='date' name='Completed_Date' ordinal='7' />
+            <column datatype='string' name='Activity_Status' ordinal='8' />
+            <column datatype='string' name='Process_Phase' ordinal='9' />
+            <column datatype='string' name='Exception_Code' ordinal='10' />
+            <column datatype='integer' name='Elapsed_Days' ordinal='11' />
+            <column datatype='string' name='Stage_Name' ordinal='12' />
+            <column datatype='string' name='Phase' ordinal='13' />
+            <column datatype='string' name='Standard_Owner' ordinal='14' />
+            <column datatype='integer' name='Target_Calendar_Days' ordinal='15' />
+            <column datatype='integer' name='Elapsed_Days_Valid' ordinal='16' />
+            <column datatype='string' name='Over_Target' ordinal='17' />
+            <column datatype='string' name='Administration' ordinal='18' />
+            <column datatype='string' name='Division' ordinal='19' />
+            <column datatype='integer' name='Grade' ordinal='20' />
+            <column datatype='string' name='Job_Family' ordinal='21' />
+            <column datatype='string' name='Selection_Path' ordinal='22' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Activity_ID</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Activity_ID]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Activity_ID</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Case_ID</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Case_ID]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Case_ID</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Stage_Code</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Stage_Code]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Stage_Code</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Activity_Label</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Activity_Label]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Activity_Label</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Responsible_Party</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Responsible_Party]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Responsible_Party</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Assigned_Date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[Assigned_Date]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Assigned_Date</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Work_Start_Date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[Work_Start_Date]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Work_Start_Date</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Completed_Date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[Completed_Date]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Completed_Date</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Activity_Status</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Activity_Status]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Activity_Status</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Process_Phase</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Process_Phase]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Process_Phase</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Exception_Code</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Exception_Code]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Exception_Code</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Elapsed_Days</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Elapsed_Days]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Elapsed_Days</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Stage_Name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Stage_Name]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Stage_Name</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Phase</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Phase]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Phase</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Standard_Owner</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Standard_Owner]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Standard_Owner</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Target_Calendar_Days</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Target_Calendar_Days]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Target_Calendar_Days</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Elapsed_Days_Valid</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Elapsed_Days_Valid]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Elapsed_Days_Valid</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Over_Target</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Over_Target]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Over_Target</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Administration</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Administration]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Administration</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Division</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Division]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Division</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Grade</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Grade]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Grade</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Job_Family</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Job_Family]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Job_Family</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Selection_Path</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Selection_Path]</local-name>
+            <parent-name>[Stage_Activities.csv]</parent-name>
+            <remote-alias>Selection_Path</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Activity ID' datatype='string' name='[Activity_ID]' role='dimension' type='nominal' />
+      <column caption='Activity Label' datatype='string' name='[Activity_Label]' role='dimension' type='nominal' />
+      <column caption='Activity Status' datatype='string' name='[Activity_Status]' role='dimension' type='nominal' />
+      <column caption='Assigned Date' datatype='date' name='[Assigned_Date]' role='dimension' type='ordinal' />
+      <column caption='Case ID' datatype='string' name='[Case_ID]' role='dimension' type='nominal' />
+      <column caption='Completed Date' datatype='date' name='[Completed_Date]' role='dimension' type='ordinal' />
+      <column caption='Elapsed Days' datatype='integer' name='[Elapsed_Days]' role='measure' type='quantitative' />
+      <column caption='Elapsed Days Valid' datatype='integer' name='[Elapsed_Days_Valid]' role='measure' type='quantitative' />
+      <column caption='Exception Code' datatype='string' name='[Exception_Code]' role='dimension' type='nominal' />
+      <column caption='Job Family' datatype='string' name='[Job_Family]' role='dimension' type='nominal' />
+      <column caption='Over Target' datatype='string' name='[Over_Target]' role='dimension' type='nominal' />
+      <column caption='Process Phase' datatype='string' name='[Process_Phase]' role='dimension' type='nominal' />
+      <column caption='Responsible Party' datatype='string' name='[Responsible_Party]' role='dimension' type='nominal' />
+      <column caption='Selection Path' datatype='string' name='[Selection_Path]' role='dimension' type='nominal' />
+      <column caption='Stage Code' datatype='string' name='[Stage_Code]' role='dimension' type='nominal' />
+      <column caption='Stage Name' datatype='string' name='[Stage_Name]' role='dimension' type='nominal' />
+      <column caption='Standard Owner' datatype='string' name='[Standard_Owner]' role='dimension' type='nominal' />
+      <column caption='Target Calendar Days' datatype='integer' name='[Target_Calendar_Days]' role='measure' type='quantitative' />
+      <column caption='Work Start Date' datatype='date' name='[Work_Start_Date]' role='dimension' type='ordinal' />
+      <column caption='Stage_Activities.csv' datatype='table' name='[__tableau_internal_object_id__].[Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1]' role='measure' type='quantitative' />
+      <column-instance column='[Standard_Owner]' derivation='None' name='[none:Standard_Owner:nk]' pivot='key' type='nominal' />
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Standard_Owner:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;HM&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Panel&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;HR&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='Stage_Activities.csv' id='Stage_Activities.csv_A357EA59780A46D3943DECFDA60F74B1'>
+            <properties context=''>
+              <relation connection='textscan.1f8avog01a7jss17coigo0vn2l83' name='Stage_Activities.csv' table='[Stage_Activities#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='Activity_ID' ordinal='0' />
+                  <column datatype='string' name='Case_ID' ordinal='1' />
+                  <column datatype='string' name='Stage_Code' ordinal='2' />
+                  <column datatype='string' name='Activity_Label' ordinal='3' />
+                  <column datatype='string' name='Responsible_Party' ordinal='4' />
+                  <column datatype='date' name='Assigned_Date' ordinal='5' />
+                  <column datatype='date' name='Work_Start_Date' ordinal='6' />
+                  <column datatype='date' name='Completed_Date' ordinal='7' />
+                  <column datatype='string' name='Activity_Status' ordinal='8' />
+                  <column datatype='string' name='Process_Phase' ordinal='9' />
+                  <column datatype='string' name='Exception_Code' ordinal='10' />
+                  <column datatype='integer' name='Elapsed_Days' ordinal='11' />
+                  <column datatype='string' name='Stage_Name' ordinal='12' />
+                  <column datatype='string' name='Phase' ordinal='13' />
+                  <column datatype='string' name='Standard_Owner' ordinal='14' />
+                  <column datatype='integer' name='Target_Calendar_Days' ordinal='15' />
+                  <column datatype='integer' name='Elapsed_Days_Valid' ordinal='16' />
+                  <column datatype='string' name='Over_Target' ordinal='17' />
+                  <column datatype='string' name='Administration' ordinal='18' />
+                  <column datatype='string' name='Division' ordinal='19' />
+                  <column datatype='integer' name='Grade' ordinal='20' />
+                  <column datatype='string' name='Job_Family' ordinal='21' />
+                  <column datatype='string' name='Selection_Path' ordinal='22' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <shared-views>
+    <shared-view name='federated.0famfpv1h2v0yw1d7ul401mzp9tb'>
+      <datasources>
+        <datasource caption='Hires' name='federated.0famfpv1h2v0yw1d7ul401mzp9tb' />
+      </datasources>
+      <datasource-dependencies datasource='federated.0famfpv1h2v0yw1d7ul401mzp9tb'>
+        <column datatype='string' name='[Administration]' role='dimension' type='nominal' />
+        <column caption='Job Family' datatype='string' name='[Job_Family]' role='dimension' type='nominal' />
+        <column-instance column='[Administration]' derivation='None' name='[none:Administration:nk]' pivot='key' type='nominal' />
+        <column-instance column='[Job_Family]' derivation='None' name='[none:Job_Family:nk]' pivot='key' type='nominal' />
+      </datasource-dependencies>
+      <filter class='categorical' column='[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Administration:nk]'>
+        <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+          <groupfilter function='member' level='[none:Administration:nk]' member='&quot;Administration &amp; Finance&quot;' />
+          <groupfilter function='member' level='[none:Administration:nk]' member='&quot;Infrastructure Delivery&quot;' />
+          <groupfilter function='member' level='[none:Administration:nk]' member='&quot;Mobility Services&quot;' />
+          <groupfilter function='member' level='[none:Administration:nk]' member='&quot;Planning &amp; Innovation&quot;' />
+        </groupfilter>
+        <target field='[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Administration:nk]' />
+      </filter>
+      <filter class='categorical' column='[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Job_Family:nk]'>
+        <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+          <groupfilter function='member' level='[none:Job_Family:nk]' member='&quot;Business Administration&quot;' />
+          <groupfilter function='member' level='[none:Job_Family:nk]' member='&quot;Data &amp; Technology&quot;' />
+          <groupfilter function='member' level='[none:Job_Family:nk]' member='&quot;Engineering&quot;' />
+          <groupfilter function='member' level='[none:Job_Family:nk]' member='&quot;Operations&quot;' />
+          <groupfilter function='member' level='[none:Job_Family:nk]' member='&quot;Policy &amp; Planning&quot;' />
+          <groupfilter function='member' level='[none:Job_Family:nk]' member='&quot;Project Management&quot;' />
+        </groupfilter>
+        <target field='[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Job_Family:nk]' />
+      </filter>
+    </shared-view>
+    <shared-view name='federated.0hwwxwz185cllu15zg0js18u87qt'>
+      <datasources>
+        <datasource caption='Stage_Activities' name='federated.0hwwxwz185cllu15zg0js18u87qt' />
+      </datasources>
+      <datasource-dependencies datasource='federated.0famfpv1h2v0yw1d7ul401mzp9tb'>
+        <column datatype='string' name='[Administration]' role='dimension' type='nominal' />
+        <column caption='Job Family' datatype='string' name='[Job_Family]' role='dimension' type='nominal' />
+        <column-instance column='[Administration]' derivation='None' name='[none:Administration:nk]' pivot='key' type='nominal' />
+        <column-instance column='[Job_Family]' derivation='None' name='[none:Job_Family:nk]' pivot='key' type='nominal' />
+      </datasource-dependencies>
+      <datasource-dependencies datasource='federated.0hwwxwz185cllu15zg0js18u87qt'>
+        <column datatype='string' name='[Administration]' role='dimension' type='nominal' />
+        <column caption='Job Family' datatype='string' name='[Job_Family]' role='dimension' type='nominal' />
+        <column-instance column='[Administration]' derivation='None' name='[none:Administration:nk]' pivot='key' type='nominal' />
+        <column-instance column='[Job_Family]' derivation='None' name='[none:Job_Family:nk]' pivot='key' type='nominal' />
+      </datasource-dependencies>
+      <filter class='categorical' column='[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Administration:nk]'>
+        <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+          <groupfilter function='member' level='[none:Administration:nk]' member='&quot;Administration &amp; Finance&quot;' />
+          <groupfilter function='member' level='[none:Administration:nk]' member='&quot;Infrastructure Delivery&quot;' />
+          <groupfilter function='member' level='[none:Administration:nk]' member='&quot;Mobility Services&quot;' />
+          <groupfilter function='member' level='[none:Administration:nk]' member='&quot;Planning &amp; Innovation&quot;' />
+        </groupfilter>
+        <target field='[federated.0hwwxwz185cllu15zg0js18u87qt].[none:Administration:nk]' />
+      </filter>
+      <filter class='categorical' column='[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Job_Family:nk]'>
+        <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+          <groupfilter function='member' level='[none:Job_Family:nk]' member='&quot;Business Administration&quot;' />
+          <groupfilter function='member' level='[none:Job_Family:nk]' member='&quot;Data &amp; Technology&quot;' />
+          <groupfilter function='member' level='[none:Job_Family:nk]' member='&quot;Engineering&quot;' />
+          <groupfilter function='member' level='[none:Job_Family:nk]' member='&quot;Operations&quot;' />
+          <groupfilter function='member' level='[none:Job_Family:nk]' member='&quot;Policy &amp; Planning&quot;' />
+          <groupfilter function='member' level='[none:Job_Family:nk]' member='&quot;Project Management&quot;' />
+        </groupfilter>
+        <target field='[federated.0hwwxwz185cllu15zg0js18u87qt].[none:Job_Family:nk]' />
+      </filter>
+    </shared-view>
+  </shared-views>
+  <worksheets>
+    <worksheet name='KPI Met Target'>
+      <layout-options>
+        <title>
+          <formatted-text />
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Hires' name='federated.0famfpv1h2v0yw1d7ul401mzp9tb' />
+            <datasource name='Parameters' />
+          </datasources>
+          <datasource-dependencies datasource='Parameters'>
+            <column caption='Target Days' datatype='integer' name='[Parameter 2177374019289088]' param-domain-type='range' role='measure' type='quantitative' value='90'>
+              <calculation class='tableau' formula='90' />
+              <range granularity='5' max='150' min='60' />
+            </column>
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.0famfpv1h2v0yw1d7ul401mzp9tb'>
+            <column datatype='string' name='[Administration]' role='dimension' type='nominal' />
+            <column caption='% Met Target' datatype='real' default-format='p0.0%' name='[Calculation_2177374020448258]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='SUM(IF [Days_To_Fill] &lt; [Parameters].[Parameter 2177374019289088] THEN 1 ELSE 0 END) / COUNT([Offer_ID])' />
+            </column>
+            <column caption='Target Days Label' datatype='integer' name='[Calculation_2177374021480452]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='MIN([Parameters].[Parameter 2177374019289088])' />
+            </column>
+            <column caption='Days To Fill' datatype='integer' name='[Days_To_Fill]' role='measure' type='quantitative' />
+            <column caption='Job Family' datatype='string' name='[Job_Family]' role='dimension' type='nominal' />
+            <column caption='Offer ID' datatype='string' name='[Offer_ID]' role='dimension' type='nominal' />
+            <column-instance column='[Administration]' derivation='None' name='[none:Administration:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Job_Family]' derivation='None' name='[none:Job_Family:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_2177374020448258]' derivation='User' name='[usr:Calculation_2177374020448258:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_2177374021480452]' derivation='User' name='[usr:Calculation_2177374021480452:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <slices>
+            <column>[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Administration:nk]</column>
+            <column>[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Job_Family:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[usr:Calculation_2177374020448258:qk]' />
+              <text column='[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[usr:Calculation_2177374021480452:qk]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run bold='true' fontalignment='0' fontname='Calibri' fontsize='20'>&lt;</run>
+                <run bold='true' fontalignment='0' fontname='Calibri' fontsize='20'>[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[usr:Calculation_2177374020448258:qk]</run>
+                <run bold='true' fontalignment='0' fontname='Calibri' fontsize='20'>&gt; of hires onboarded within &lt;</run>
+                <run bold='true' fontalignment='0' fontname='Calibri' fontsize='20'>[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[usr:Calculation_2177374021480452:qk]</run>
+                <run bold='true' fontalignment='0' fontname='Calibri' fontsize='20'>&gt; Days</run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{D999F784-3350-4C35-BC8B-BF6E142C26BF}' />
+    </worksheet>
+    <worksheet name='Outcome by path'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#000000' fontname='Calibri'>% of hires onboarded within target, by selection path</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Hires' name='federated.0famfpv1h2v0yw1d7ul401mzp9tb' />
+            <datasource name='Parameters' />
+          </datasources>
+          <datasource-dependencies datasource='Parameters'>
+            <column caption='Target Days' datatype='integer' name='[Parameter 2177374019289088]' param-domain-type='range' role='measure' type='quantitative' value='90'>
+              <calculation class='tableau' formula='90' />
+              <range granularity='5' max='150' min='60' />
+            </column>
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.0famfpv1h2v0yw1d7ul401mzp9tb'>
+            <column datatype='string' name='[Administration]' role='dimension' type='nominal' />
+            <column caption='% Met Target' datatype='real' default-format='p0.0%' name='[Calculation_2177374020448258]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='SUM(IF [Days_To_Fill] &lt; [Parameters].[Parameter 2177374019289088] THEN 1 ELSE 0 END) / COUNT([Offer_ID])' />
+            </column>
+            <column caption='Hires' datatype='integer' name='[Calculation_2177374021406723]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='COUNTD([Offer_ID])' />
+            </column>
+            <column caption='Days To Fill' datatype='integer' name='[Days_To_Fill]' role='measure' type='quantitative' />
+            <column caption='Job Family' datatype='string' name='[Job_Family]' role='dimension' type='nominal' />
+            <column caption='Offer ID' datatype='string' name='[Offer_ID]' role='dimension' type='nominal' />
+            <column caption='Selection Path' datatype='string' name='[Selection_Path]' role='dimension' type='nominal' />
+            <column-instance column='[Administration]' derivation='None' name='[none:Administration:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Job_Family]' derivation='None' name='[none:Job_Family:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Selection_Path]' derivation='None' name='[none:Selection_Path:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_2177374020448258]' derivation='User' name='[usr:Calculation_2177374020448258:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_2177374021406723]' derivation='User' name='[usr:Calculation_2177374021406723:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Selection_Path:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[usr:Calculation_2177374020448258:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Administration:nk]</column>
+            <column>[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Job_Family:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[usr:Calculation_2177374020448258:qk]' />
+              <text column='[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[usr:Calculation_2177374021406723:qk]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run fontalignment='0'>&lt;</run>
+                <run fontalignment='0'>[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[usr:Calculation_2177374020448258:qk]</run>
+                <run fontalignment='0'>&gt;  (n = &lt;</run>
+                <run fontalignment='0'>[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[usr:Calculation_2177374021406723:qk]</run>
+                <run fontalignment='0'>&gt;)</run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Selection_Path:nk]</rows>
+        <cols>[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[usr:Calculation_2177374020448258:qk]</cols>
+      </table>
+      <simple-id uuid='{42E5CCEF-1802-4B30-B03F-797619497B93}' />
+    </worksheet>
+    <worksheet name='Stage Bottlenecks'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#000000' fontname='Calibri'>Average days per step vs target (black line)</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Stage_Activities' name='federated.0hwwxwz185cllu15zg0js18u87qt' />
+            <datasource caption='Hires' name='federated.0famfpv1h2v0yw1d7ul401mzp9tb' />
+            <datasource caption='Process_Standards' name='federated.0nd229z1iswfsm1dyet4v0bks4xi' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0famfpv1h2v0yw1d7ul401mzp9tb'>
+            <column datatype='string' name='[Administration]' role='dimension' type='nominal' />
+            <column caption='Job Family' datatype='string' name='[Job_Family]' role='dimension' type='nominal' />
+            <column-instance column='[Administration]' derivation='None' name='[none:Administration:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Job_Family]' derivation='None' name='[none:Job_Family:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.0hwwxwz185cllu15zg0js18u87qt'>
+            <column datatype='string' name='[Administration]' role='dimension' type='nominal' />
+            <column caption='Elapsed Days Valid' datatype='integer' name='[Elapsed_Days_Valid]' role='measure' type='quantitative' />
+            <column caption='Job Family' datatype='string' name='[Job_Family]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Phase]' role='dimension' type='nominal' />
+            <column caption='Stage Name' datatype='string' name='[Stage_Name]' role='dimension' type='nominal' />
+            <column caption='Standard Owner' datatype='string' name='[Standard_Owner]' role='dimension' type='nominal' />
+            <column-instance column='[Elapsed_Days_Valid]' derivation='Avg' name='[avg:Elapsed_Days_Valid:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Administration]' derivation='None' name='[none:Administration:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Job_Family]' derivation='None' name='[none:Job_Family:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Phase]' derivation='None' name='[none:Phase:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Stage_Name]' derivation='None' name='[none:Stage_Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Standard_Owner]' derivation='None' name='[none:Standard_Owner:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.0nd229z1iswfsm1dyet4v0bks4xi'>
+            <column caption='Target Calendar Days' datatype='integer' name='[Target_Calendar_Days]' role='measure' type='quantitative' />
+            <column-instance column='[Target_Calendar_Days]' derivation='Sum' name='[sum:Target_Calendar_Days:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0hwwxwz185cllu15zg0js18u87qt].[none:Phase:nk]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Phase:nk]' member='&quot;Interview &amp; recommendation&quot;' />
+              <groupfilter function='member' level='[none:Phase:nk]' member='&quot;Interview preparation&quot;' />
+              <groupfilter function='member' level='[none:Phase:nk]' member='&quot;Offer &amp; onboarding&quot;' />
+              <groupfilter function='member' level='[none:Phase:nk]' member='&quot;Optional selection&quot;' />
+              <groupfilter function='member' level='[none:Phase:nk]' member='&quot;Post-close screening&quot;' />
+              <groupfilter function='member' level='[none:Phase:nk]' member='&quot;Posting&quot;' />
+              <groupfilter function='member' level='[none:Phase:nk]' member='&quot;Selection&quot;' />
+            </groupfilter>
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.0hwwxwz185cllu15zg0js18u87qt].[none:Stage_Name:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0hwwxwz185cllu15zg0js18u87qt].[avg:Elapsed_Days_Valid:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.0hwwxwz185cllu15zg0js18u87qt].[none:Phase:nk]</column>
+            <column>[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Administration:nk]</column>
+            <column>[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Job_Family:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='text-format' field='[federated.0hwwxwz185cllu15zg0js18u87qt].[avg:Elapsed_Days_Valid:qk]' value='*0.0' />
+          </style-rule>
+          <style-rule element='refline'>
+            <format attr='fill-above' id='refline0' value='#00000000' />
+            <format attr='fill-below' id='refline0' value='#00000000' />
+            <format attr='stroke-size' id='refline0' value='3' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0hwwxwz185cllu15zg0js18u87qt].[none:Standard_Owner:nk]' />
+              <text column='[federated.0hwwxwz185cllu15zg0js18u87qt].[avg:Elapsed_Days_Valid:qk]' />
+              <lod column='[federated.0nd229z1iswfsm1dyet4v0bks4xi].[sum:Target_Calendar_Days:qk]' />
+            </encodings>
+            <reference-line axis-column='[federated.0hwwxwz185cllu15zg0js18u87qt].[avg:Elapsed_Days_Valid:qk]' enable-instant-analytics='true' formula='sum' id='refline0' label='' label-type='custom' scope='per-cell' value-column='[federated.0nd229z1iswfsm1dyet4v0bks4xi].[sum:Target_Calendar_Days:qk]' z-order='1' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0hwwxwz185cllu15zg0js18u87qt].[none:Stage_Name:nk]</rows>
+        <cols>[federated.0hwwxwz185cllu15zg0js18u87qt].[avg:Elapsed_Days_Valid:qk]</cols>
+      </table>
+      <simple-id uuid='{4AA55CF6-D2CB-4D61-BD81-FF1CC3397E43}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard enable-sort-zone-taborder='true' name='Recruitment Dashboard'>
+      <style />
+      <size maxheight='560' maxwidth='1150' minheight='560' minwidth='1150' sizing-mode='fixed' />
+      <datasources>
+        <datasource name='Parameters' />
+        <datasource caption='Hires' name='federated.0famfpv1h2v0yw1d7ul401mzp9tb' />
+      </datasources>
+      <datasource-dependencies datasource='Parameters'>
+        <column caption='Target Days' datatype='integer' name='[Parameter 2177374019289088]' param-domain-type='range' role='measure' type='quantitative' value='90'>
+          <calculation class='tableau' formula='90' />
+          <range granularity='5' max='150' min='60' />
+        </column>
+      </datasource-dependencies>
+      <datasource-dependencies datasource='federated.0famfpv1h2v0yw1d7ul401mzp9tb'>
+        <column datatype='string' name='[Administration]' role='dimension' type='nominal' />
+        <column caption='Job Family' datatype='string' name='[Job_Family]' role='dimension' type='nominal' />
+        <column-instance column='[Administration]' derivation='None' name='[none:Administration:nk]' pivot='key' type='nominal' />
+        <column-instance column='[Job_Family]' derivation='None' name='[none:Job_Family:nk]' pivot='key' type='nominal' />
+      </datasource-dependencies>
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='27778' id='8' param='horz' type-v2='layout-flow' w='69629' x='696' y='1429'>
+            <zone h='27778' id='6' type-v2='layout-basic' w='50064' x='696' y='1429'>
+              <zone forceUpdate='true' h='16881' id='3' type-v2='text' w='50064' x='696' y='1429'>
+                <formatted-text>
+                  <run bold='true' fontcolor='#000000' fontname='Calibri' fontsize='15'>How long does it take to fill a job? Goal: onboarding in under 90 days from first posting</run>
+                  <run>Æ&#10;</run>
+                  <run fontcolor='#000000' fontname='Calibri' fontsize='10'>Source: HR system exports, File snapshot date 31 Oct 2026. 271 completed hires</run>
+                </formatted-text>
+                <zone-style>
+                  <format attr='border-color' value='#444444' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='10897' id='5' name='KPI Met Target' w='50064' x='696' y='18310'>
+                <zone-style>
+                  <format attr='border-color' value='#444444' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+            <zone fixed-size='225' h='27778' id='7' is-fixed='true' param='vert' type-v2='layout-flow' w='19565' x='50760' y='1429'>
+              <zone h='12599' id='9' mode='slider' param='[Parameters].[Parameter 2177374019289088]' type-v2='paramctrl' w='19565' x='50760' y='1429'>
+                <zone-style>
+                  <format attr='border-color' value='#444444' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone fixed-size='77' h='15179' id='12' is-fixed='true' name='Stage Bottlenecks' pane-specification-id='0' param='[federated.0hwwxwz185cllu15zg0js18u87qt].[none:Standard_Owner:nk]' type-v2='color' w='19565' x='50760' y='14028'>
+                <zone-style>
+                  <format attr='border-color' value='#444444' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+          </zone>
+          <zone h='59900' id='10' name='Outcome by path' w='48087' x='696' y='29207'>
+            <zone-style>
+              <format attr='border-color' value='#444444' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='69364' id='11' name='Stage Bottlenecks' w='50521' x='48783' y='29207'>
+            <zone-style>
+              <format attr='border-color' value='#444444' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='27778' id='24' name='Outcome by path' param='[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Job_Family:nk]' type-v2='filter' values='database' w='14934' x='84370' y='1429'>
+            <zone-style>
+              <format attr='border-color' value='#444444' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone fixed-size='62' h='27778' id='23' is-fixed='true' name='Outcome by path' param='[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Administration:nk]' type-v2='filter' values='database' w='14045' x='70325' y='1429'>
+            <zone-style>
+              <format attr='border-color' value='#444444' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone forceUpdate='true' h='9464' id='35' type-v2='text' w='48087' x='696' y='89107'>
+            <formatted-text>
+              <run bold='true' fontname='Calibri'>Note: Only completed hires are counted (jobs still open or cancelled are excluded). Differences between groups show association, not proven cause.</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#444444' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#444444' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='1050' minheight='1050' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='47' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97142' id='46' param='vert' type-v2='layout-flow' w='98608' x='696' y='1429'>
+                <zone forceUpdate='true' h='16881' id='3' type-v2='text' w='50064' x='696' y='1429'>
+                  <formatted-text>
+                    <run bold='true' fontcolor='#000000' fontname='Calibri' fontsize='15'>How long does it take to fill a job? Goal: onboarding in under 90 days from first posting</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000' fontname='Calibri' fontsize='10'>Source: HR system exports, File snapshot date 31 Oct 2026. 271 completed hires</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#444444' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='12599' id='9' mode='slider' param='[Parameters].[Parameter 2177374019289088]' type-v2='paramctrl' w='19565' x='50760' y='1429'>
+                  <zone-style>
+                    <format attr='border-color' value='#444444' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='53' h='10897' id='5' is-fixed='true' name='KPI Met Target' w='50064' x='696' y='18310'>
+                  <zone-style>
+                    <format attr='border-color' value='#444444' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='27778' id='24' mode='checkdropdown' name='Outcome by path' param='[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Job_Family:nk]' type-v2='filter' values='database' w='14934' x='84370' y='1429'>
+                  <zone-style>
+                    <format attr='border-color' value='#444444' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='62' h='27778' id='23' mode='checkdropdown' name='Outcome by path' param='[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Administration:nk]' type-v2='filter' values='database' w='14045' x='70325' y='1429'>
+                  <zone-style>
+                    <format attr='border-color' value='#444444' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='59900' id='10' is-fixed='true' name='Outcome by path' w='48087' x='696' y='29207'>
+                  <zone-style>
+                    <format attr='border-color' value='#444444' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='69364' id='11' is-fixed='true' name='Stage Bottlenecks' w='50521' x='48783' y='29207'>
+                  <zone-style>
+                    <format attr='border-color' value='#444444' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='77' h='15179' id='12' name='Stage Bottlenecks' pane-specification-id='0' param='[federated.0hwwxwz185cllu15zg0js18u87qt].[none:Standard_Owner:nk]' type-v2='color' w='19565' x='50760' y='14028'>
+                  <zone-style>
+                    <format attr='border-color' value='#444444' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone forceUpdate='true' h='9464' id='35' type-v2='text' w='48087' x='696' y='89107'>
+                  <formatted-text>
+                    <run bold='true' fontname='Calibri'>Note: Only completed hires are counted (jobs still open or cancelled are excluded). Differences between groups show association, not proven cause.</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#444444' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#444444' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{070ADCB0-C07D-495D-BC6C-C26EF0513B2A}' />
+    </dashboard>
+  </dashboards>
+  <windows source-height='72'>
+    <window class='dashboard' maximized='true' name='Recruitment Dashboard'>
+      <viewpoints>
+        <viewpoint name='KPI Met Target' />
+        <viewpoint name='Outcome by path' />
+        <viewpoint name='Stage Bottlenecks'>
+          <highlight>
+            <color-one-way>
+              <field>[federated.0hwwxwz185cllu15zg0js18u87qt].[none:Standard_Owner:nk]</field>
+            </color-one-way>
+          </highlight>
+        </viewpoint>
+      </viewpoints>
+      <active id='-1' />
+      <simple-id uuid='{B335B9DE-BFE9-443B-9A9C-AE43EBFC683D}' />
+    </window>
+    <window class='worksheet' hidden='true' name='KPI Met Target'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card mode='slider' param='[Parameters].[Parameter 2177374019289088]' type='parameter' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{F540D315-0B14-4CE6-B762-67112B1204AA}' />
+    </window>
+    <window class='worksheet' hidden='true' name='Outcome by path'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Administration:nk]</field>
+            <field>[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Job_Family:nk]</field>
+            <field>[federated.0famfpv1h2v0yw1d7ul401mzp9tb].[none:Selection_Path:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{D14C27B6-6A18-40A6-ADD8-42E61153C075}' />
+    </window>
+    <window class='worksheet' hidden='true' name='Stage Bottlenecks'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0hwwxwz185cllu15zg0js18u87qt].[none:Standard_Owner:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0hwwxwz185cllu15zg0js18u87qt].[none:Phase:nk]</field>
+            <field>[federated.0hwwxwz185cllu15zg0js18u87qt].[none:Stage_Name:nk]</field>
+            <field>[federated.0hwwxwz185cllu15zg0js18u87qt].[none:Standard_Owner:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{C424C4B2-4856-47ED-8C6A-417B20BA6B51}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Recruitment Dashboard' width='192'>
+      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
+      owSgmGv+Py7sLmVZR7m4AAAAAElFTkSuQmCC
+    </thumbnail>
+  </thumbnails>
+</workbook>

@@ -1,0 +1,23 @@
+﻿Stage_Code,Stage_Name,Phase,Standard_Owner,Target_Calendar_Days,Target_Basis,Exception_Note
+HM_REQUEST,Recruitment request submitted,Pre-posting,HM,0,Assignment to completion,Guideline only; not a legal requirement
+HR_CASE_CREATION,HR creates recruitment case,Pre-posting,HR,2,Assignment to completion,Guideline only; not a legal requirement
+HM_JOB_DRAFT,HM drafts posting and questionnaire,Pre-posting,HM,7,Assignment to completion,Guideline only; not a legal requirement
+HR_POST_REVIEW,HR reviews job posting,Pre-posting,HR,5,Assignment to completion,Guideline only; not a legal requirement
+HM_JOB_REVISION,HM revises posting package,Pre-posting,HM,4,Assignment to completion,Guideline only; not a legal requirement
+HR_PUBLISH,HR publishes online posting,Pre-posting,HR,3,Assignment to completion,Guideline only; not a legal requirement
+HR_APPLICATION_DOWNLOAD,HR downloads applications,Post-close screening,HR,2,Assignment to completion,Guideline only; not a legal requirement
+HR_INITIAL_SCREEN,HR screens application eligibility,Post-close screening,HR,7,Assignment to completion,Guideline only; not a legal requirement
+HM_RESUME_REVIEW,HM reviews qualified resumes,Selection,HM,7,Assignment to completion,Guideline only; not a legal requirement
+HM_SHORTLIST,HM selects next-round candidates,Selection,HM,2,Assignment to completion,Guideline only; not a legal requirement
+HR_OPTIONAL_ROUND_COORDINATION,HR coordinates optional selection rounds,Optional selection,HR,4,Assignment to completion,Guideline only; not a legal requirement
+HM_PHONE_SCREEN,HM conducts phone screens,Optional selection,HM,5,Assignment to completion,Guideline only; not a legal requirement
+HM_TECH_ASSESSMENT,HM administers technical assessment,Optional selection,HM,8,Assignment to completion,Guideline only; not a legal requirement
+HM_PANEL_ASSEMBLY,HM assembles interview panel,Interview preparation,HM,5,Assignment to completion,Guideline only; not a legal requirement
+HM_INTERVIEW_QUESTIONS,HM prepares interview questions,Interview preparation,HM,4,Assignment to completion,Guideline only; not a legal requirement
+HR_INTERVIEW_SCHEDULING,HR schedules panel interviews,Interview preparation,HR,6,Assignment to completion,Guideline only; not a legal requirement
+PANEL_INTERVIEW,Interview panel conducts interviews,Interview & recommendation,Panel,3,Assignment to completion,Guideline only; not a legal requirement
+PANEL_RECOMMENDATION,Panel submits recommendation,Interview & recommendation,Panel,3,Assignment to completion,Guideline only; not a legal requirement
+HR_OFFER_NEGOTIATION,HR negotiates / completes offer,Offer & onboarding,HR,8,Assignment to completion,Guideline only; not a legal requirement
+HR_ONBOARDING,HR completes onboarding,Offer & onboarding,HR,15,Assignment to completion,Guideline only; not a legal requirement
+HR_REPOST,HR reposts an unfilled opening,Posting,HR,3,Assignment to completion,Guideline only; not a legal requirement
+CASE_CANCELLATION,Recruitment case canceled,Closure,HR,1,Assignment to completion,Guideline only; not a legal requirement

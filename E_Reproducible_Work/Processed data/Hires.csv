@@ -1,0 +1,272 @@
+﻿Offer_ID,Application_ID,Case_ID,Offer_Sequence,Offer_Date,Decision_Date,Offer_Status,Acceptance_Date,Onboarding_Completion_Date,Proposed_Start_Date,Offer_Status_Clean,Case_First_Posting.First_Posted_Date,Case_First_Posting.Num_Postings,Days_To_Fill,Under_90,Selection_Path,Administration,Division,Grade,Job_Family
+OFF-00001,APP-000001,RC-0001,1,6/8/2025,6/16/2025,Accepted,6/16/2025,7/3/2025,7/1/2025,Accepted,3/26/2025,1,99,No,Phone only,Mobility Services,Transit Programs,15,Engineering
+OFF-00002,APP-000024,RC-0002,1,1/13/2025,1/20/2025,accepted ,1/20/2025,2/6/2025,2/4/2025,Accepted,11/4/2024,1,94,No,Phone + Tech,Infrastructure Delivery,Construction Management,11,Project Management
+OFF-00003,APP-000025,RC-0002,2,1/15/2025,1/22/2025,accepted ,1/22/2025,2/25/2025,2/23/2025,Accepted,11/4/2024,1,113,No,Phone + Tech,Infrastructure Delivery,Construction Management,11,Project Management
+OFF-00004,APP-000056,RC-0003,1,7/12/2026,7/18/2026,accepted ,7/18/2026,8/4/2026,8/2/2026,Accepted,4/13/2026,1,113,No,Phone + Tech,Administration & Finance,Talent & Operations,15,Project Management
+OFF-00005,APP-000058,RC-0003,2,7/14/2026,7/20/2026,Accepted,7/20/2026,8/23/2026,8/21/2026,Accepted,4/13/2026,1,132,No,Phone + Tech,Administration & Finance,Talent & Operations,15,Project Management
+OFF-00006,APP-000108,RC-0004,1,12/31/2024,1/5/2025,accepted ,1/5/2025,1/20/2025,1/18/2025,Accepted,10/8/2024,2,104,No,Phone only,Mobility Services,Transit Programs,15,Engineering
+OFF-00008,APP-000144,RC-0005,2,7/31/2024,8/6/2024,accepted ,8/6/2024,9/7/2024,9/5/2024,Accepted,5/22/2024,1,108,No,Tech only,Administration & Finance,Procurement Services,13,Data & Technology
+OFF-00009,APP-000176,RC-0006,1,6/11/2024,6/17/2024,ACCEPTED,6/17/2024,6/30/2024,6/28/2024,Accepted,3/31/2024,1,91,No,Phone only,Infrastructure Delivery,Capital Projects,13,Business Administration
+OFF-00010,APP-000205,RC-0007,1,5/22/2025,5/28/2025,ACCEPTED,5/28/2025,6/17/2025,6/15/2025,Accepted,3/25/2025,1,84,Yes,No optional rounds,Infrastructure Delivery,Asset Programs,11,Policy & Planning
+OFF-00011,APP-000232,RC-0008,1,11/16/2025,11/22/2025,Accepted,11/22/2025,12/4/2025,12/2/2025,Accepted,8/5/2025,1,121,No,Phone + Tech,Mobility Services,Traffic Operations,14,Business Administration
+OFF-00012,APP-000288,RC-0009,1,11/24/2024,12/1/2024,Accepted,12/1/2024,12/18/2024,12/16/2024,Accepted,9/16/2024,1,93,No,Tech only,Infrastructure Delivery,Construction Management,15,Operations
+OFF-00013,APP-000307,RC-0010,1,9/26/2025,9/27/2025,accepted ,9/27/2025,10/20/2025,10/18/2025,Accepted,7/23/2025,1,89,Yes,Phone only,Infrastructure Delivery,Asset Programs,14,Operations
+OFF-00014,APP-000326,RC-0011,1,6/4/2024,6/12/2024,ACCEPTED,6/12/2024,6/23/2024,6/21/2024,Accepted,3/23/2024,1,92,No,Tech only,Infrastructure Delivery,Capital Projects,11,Operations
+OFF-00016,APP-000344,RC-0012,2,3/3/2025,3/10/2025,accepted ,3/10/2025,4/9/2025,4/7/2025,Accepted,12/10/2024,1,120,No,Phone + Tech,Infrastructure Delivery,Asset Programs,13,Business Administration
+OFF-00017,APP-000385,RC-0013,1,10/29/2025,11/9/2025,Accepted,11/9/2025,11/24/2025,11/22/2025,Accepted,8/15/2025,1,101,No,Tech only,Infrastructure Delivery,Construction Management,12,Project Management
+OFF-00018,APP-000400,RC-0014,1,12/10/2024,12/15/2024,accepted ,12/15/2024,1/3/2025,1/1/2025,Accepted,10/11/2024,1,84,Yes,Tech only,Infrastructure Delivery,Asset Programs,13,Business Administration
+OFF-00021,APP-000463,RC-0016,1,7/3/2025,7/9/2025,ACCEPTED,7/9/2025,7/19/2025,7/17/2025,Accepted,5/12/2025,1,68,Yes,No optional rounds,Mobility Services,Transit Programs,11,Operations
+OFF-00024,APP-000531,RC-0018,1,3/18/2025,3/22/2025,ACCEPTED,3/22/2025,4/5/2025,4/3/2025,Accepted,1/10/2025,1,85,Yes,Phone only,Administration & Finance,Talent & Operations,11,Business Administration
+OFF-00025,APP-000562,RC-0019,1,5/9/2025,5/14/2025,ACCEPTED,5/14/2025,6/5/2025,6/3/2025,Accepted,3/6/2025,1,91,No,No optional rounds,Mobility Services,Traffic Operations,9,Data & Technology
+OFF-00026,APP-000572,RC-0019,2,5/11/2025,5/16/2025,Accepted,5/16/2025,6/24/2025,6/22/2025,Accepted,3/6/2025,1,110,No,No optional rounds,Mobility Services,Traffic Operations,9,Data & Technology
+OFF-00027,APP-000573,RC-0019,3,5/13/2025,5/18/2025,Accepted,5/18/2025,7/13/2025,7/11/2025,Accepted,3/6/2025,1,129,No,No optional rounds,Mobility Services,Traffic Operations,9,Data & Technology
+OFF-00028,APP-000591,RC-0020,1,2/20/2025,2/27/2025,ACCEPTED,2/27/2025,3/11/2025,3/9/2025,Accepted,12/21/2024,1,80,Yes,Phone only,Administration & Finance,Talent & Operations,12,Operations
+OFF-00029,APP-000605,RC-0021,1,8/22/2025,8/30/2025,Accepted,8/30/2025,9/16/2025,9/14/2025,Accepted,6/9/2025,1,99,No,Phone only,Infrastructure Delivery,Capital Projects,11,Project Management
+OFF-00031,APP-000667,RC-0023,1,10/9/2024,10/17/2024,Accepted,10/17/2024,11/3/2024,11/1/2024,Accepted,8/9/2024,1,86,Yes,Tech only,Infrastructure Delivery,Construction Management,13,Engineering
+OFF-00032,APP-000720,RC-0025,1,9/6/2025,9/17/2025,accepted ,9/17/2025,10/6/2025,10/4/2025,Accepted,7/1/2025,1,97,No,Tech only,Planning & Innovation,Community Programs,11,Operations
+OFF-00033,APP-000724,RC-0025,2,9/8/2025,9/19/2025,Accepted,9/19/2025,10/25/2025,10/23/2025,Accepted,7/1/2025,1,116,No,Tech only,Planning & Innovation,Community Programs,11,Operations
+OFF-00034,APP-000753,RC-0026,1,11/15/2024,11/26/2024,ACCEPTED,11/26/2024,12/9/2024,12/7/2024,Accepted,9/21/2024,1,79,Yes,No optional rounds,Planning & Innovation,Policy & Planning,11,Business Administration
+OFF-00035,APP-000796,RC-0027,1,12/28/2024,1/6/2025,ACCEPTED,1/6/2025,1/19/2025,1/17/2025,Accepted,10/29/2024,1,82,Yes,Tech only,Infrastructure Delivery,Asset Programs,13,Project Management
+OFF-00036,APP-000829,RC-0028,1,11/13/2025,11/22/2025,ACCEPTED,11/22/2025,12/10/2025,12/8/2025,Accepted,9/18/2025,1,83,Yes,No optional rounds,Infrastructure Delivery,Asset Programs,9,Operations
+OFF-00038,APP-000897,RC-0030,1,5/22/2026,6/3/2026,Accepted,6/3/2026,6/16/2026,6/14/2026,Accepted,3/14/2026,1,94,No,Phone only,Planning & Innovation,Policy & Planning,11,Data & Technology
+OFF-00039,APP-000915,RC-0031,1,12/18/2024,12/24/2024,ACCEPTED,12/24/2024,1/14/2025,1/12/2025,Accepted,10/20/2024,1,86,Yes,No optional rounds,Infrastructure Delivery,Asset Programs,13,Data & Technology
+OFF-00041,APP-000940,RC-0032,2,12/28/2024,1/6/2025,Accepted,1/6/2025,2/4/2025,2/2/2025,Accepted,10/23/2024,1,104,No,No optional rounds,Administration & Finance,Talent & Operations,11,Project Management
+OFF-00042,APP-000947,RC-0033,1,10/12/2025,10/22/2025,accepted ,10/22/2025,11/6/2025,11/4/2025,Accepted,8/25/2025,1,73,Yes,No optional rounds,Planning & Innovation,Data & Analytics,14,Project Management
+OFF-00043,APP-001011,RC-0035,1,11/16/2025,11/25/2025,ACCEPTED,11/25/2025,12/5/2025,12/3/2025,Accepted,9/1/2025,1,95,No,No optional rounds,Infrastructure Delivery,Capital Projects,12,Operations
+OFF-00044,APP-001033,RC-0036,1,8/23/2024,9/1/2024,Accepted,9/1/2024,9/11/2024,9/9/2024,Accepted,6/27/2024,1,76,Yes,No optional rounds,Mobility Services,Safety & Signals,14,Operations
+OFF-00045,APP-001093,RC-0038,1,9/20/2026,9/27/2026,Accepted,9/27/2026,10/15/2026,10/13/2026,Accepted,7/23/2026,1,84,Yes,No optional rounds,Infrastructure Delivery,Capital Projects,12,Project Management
+OFF-00046,APP-001122,RC-0039,1,7/21/2025,8/3/2025,accepted ,8/3/2025,8/19/2025,8/17/2025,Accepted,5/9/2025,1,102,No,Tech only,Infrastructure Delivery,Asset Programs,14,Engineering
+OFF-00047,APP-001164,RC-0040,1,7/13/2026,7/20/2026,accepted ,7/20/2026,8/3/2026,8/1/2026,Accepted,5/13/2026,1,82,Yes,No optional rounds,Infrastructure Delivery,Asset Programs,14,Engineering
+OFF-00049,APP-001192,RC-0041,2,8/24/2024,8/27/2024,accepted ,8/27/2024,10/2/2024,9/30/2024,Accepted,6/7/2024,1,117,No,Phone + Tech,Administration & Finance,Talent & Operations,13,Operations
+OFF-00050,APP-001231,RC-0042,1,5/4/2024,5/9/2024,accepted ,5/9/2024,5/27/2024,5/25/2024,Accepted,2/21/2024,1,96,No,Tech only,Planning & Innovation,Policy & Planning,11,Policy & Planning
+OFF-00052,APP-001268,RC-0043,2,7/25/2025,7/31/2025,accepted ,7/31/2025,8/27/2025,8/25/2025,Accepted,5/29/2025,1,90,No,No optional rounds,Mobility Services,Transit Programs,15,Project Management
+OFF-00054,APP-001305,RC-0044,2,8/3/2025,8/15/2025,accepted ,8/15/2025,9/17/2025,9/15/2025,Accepted,6/1/2025,1,108,No,No optional rounds,Planning & Innovation,Community Programs,11,Data & Technology
+OFF-00055,APP-001306,RC-0044,3,8/5/2025,8/17/2025,Accepted,8/17/2025,10/6/2025,10/4/2025,Accepted,6/1/2025,1,127,No,No optional rounds,Planning & Innovation,Community Programs,11,Data & Technology
+OFF-00056,APP-001337,RC-0045,1,6/7/2024,6/19/2024,accepted ,6/19/2024,7/2/2024,6/30/2024,Accepted,3/28/2024,1,96,No,Tech only,Mobility Services,Safety & Signals,11,Engineering
+OFF-00057,APP-001363,RC-0046,1,11/26/2025,12/5/2025,ACCEPTED,12/5/2025,12/25/2025,12/23/2025,Accepted,9/7/2025,1,109,No,Phone + Tech,Administration & Finance,Talent & Operations,12,Policy & Planning
+OFF-00058,APP-001384,RC-0047,1,2/17/2025,2/24/2025,Accepted,2/24/2025,3/8/2025,3/6/2025,Accepted,12/7/2024,1,91,No,Phone + Tech,Mobility Services,Safety & Signals,14,Engineering
+OFF-00059,APP-001416,RC-0048,1,3/18/2026,3/27/2026,Accepted,3/27/2026,4/5/2026,4/3/2026,Accepted,12/11/2025,2,115,No,No optional rounds,Administration & Finance,Talent & Operations,11,Data & Technology
+OFF-00060,APP-001466,RC-0049,1,10/15/2025,10/22/2025,ACCEPTED,10/22/2025,11/8/2025,11/6/2025,Accepted,8/12/2025,1,88,Yes,Phone only,Mobility Services,Transit Programs,12,Project Management
+OFF-00061,APP-001496,RC-0051,1,8/22/2024,8/26/2024,accepted ,8/26/2024,9/8/2024,9/6/2024,Accepted,7/2/2024,1,68,Yes,No optional rounds,Planning & Innovation,Data & Analytics,12,Project Management
+OFF-00062,APP-001530,RC-0052,1,1/21/2025,1/26/2025,ACCEPTED,1/26/2025,2/6/2025,2/4/2025,Accepted,11/12/2024,1,86,Yes,Tech only,Administration & Finance,Procurement Services,12,Engineering
+OFF-00063,APP-001562,RC-0053,1,7/17/2026,7/24/2026,Accepted,7/24/2026,8/16/2026,8/14/2026,Accepted,5/18/2026,1,90,No,Tech only,Planning & Innovation,Community Programs,14,Engineering
+OFF-00064,APP-001565,RC-0053,2,7/19/2026,7/26/2026,ACCEPTED,7/26/2026,9/4/2026,9/2/2026,Accepted,5/18/2026,1,109,No,Tech only,Planning & Innovation,Community Programs,14,Engineering
+OFF-00065,APP-001605,RC-0054,1,10/30/2025,11/5/2025,accepted ,11/5/2025,11/23/2025,11/21/2025,Accepted,8/24/2025,2,91,No,No optional rounds,Infrastructure Delivery,Construction Management,11,Operations
+OFF-00066,APP-001674,RC-0055,1,4/23/2025,4/28/2025,Accepted,4/28/2025,5/10/2025,5/8/2025,Accepted,2/17/2025,1,82,Yes,Phone only,Administration & Finance,Procurement Services,14,Policy & Planning
+OFF-00067,APP-001702,RC-0056,1,6/17/2024,6/27/2024,Accepted,6/27/2024,7/5/2024,7/3/2024,Accepted,4/18/2024,1,78,Yes,Phone only,Administration & Finance,Talent & Operations,13,Data & Technology
+OFF-00068,APP-001724,RC-0057,1,6/11/2024,6/20/2024,Accepted,6/20/2024,7/11/2024,7/9/2024,Accepted,4/18/2024,1,84,Yes,Phone only,Mobility Services,Transit Programs,12,Policy & Planning
+OFF-00071,APP-001834,RC-0061,2,8/20/2025,8/24/2025,ACCEPTED,8/24/2025,9/23/2025,9/21/2025,Accepted,6/20/2025,1,95,No,Phone + Tech,Planning & Innovation,Community Programs,12,Business Administration
+OFF-00072,APP-001866,RC-0062,1,7/29/2025,8/4/2025,accepted ,8/4/2025,8/15/2025,8/13/2025,Accepted,5/30/2025,1,77,Yes,No optional rounds,Planning & Innovation,Policy & Planning,11,Data & Technology
+OFF-00073,APP-001867,RC-0062,2,7/31/2025,8/6/2025,ACCEPTED,8/6/2025,9/3/2025,9/1/2025,Accepted,5/30/2025,1,96,No,No optional rounds,Planning & Innovation,Policy & Planning,11,Data & Technology
+OFF-00075,APP-001923,RC-0064,1,4/13/2025,4/19/2025,ACCEPTED,4/19/2025,4/30/2025,4/28/2025,Accepted,2/4/2025,1,85,Yes,Tech only,Administration & Finance,Budget & Grants,12,Operations
+OFF-00076,APP-001959,RC-0065,1,11/4/2025,11/13/2025,Accepted,11/13/2025,11/28/2025,11/26/2025,Accepted,9/4/2025,1,85,Yes,Tech only,Infrastructure Delivery,Construction Management,12,Data & Technology
+OFF-00077,APP-001994,RC-0066,1,1/3/2025,1/11/2025,accepted ,1/11/2025,1/31/2025,1/29/2025,Accepted,11/4/2024,1,88,Yes,Phone only,Planning & Innovation,Data & Analytics,13,Operations
+OFF-00078,APP-002033,RC-0067,1,12/21/2025,12/24/2025,accepted ,12/24/2025,1/1/2026,12/30/2025,Accepted,10/15/2025,1,78,Yes,Phone only,Administration & Finance,Procurement Services,14,Project Management
+OFF-00080,APP-002072,RC-0068,2,6/22/2026,7/2/2026,accepted ,7/2/2026,8/7/2026,8/5/2026,Accepted,4/26/2026,1,103,No,No optional rounds,Mobility Services,Safety & Signals,12,Policy & Planning
+OFF-00081,APP-002117,RC-0069,1,3/15/2026,3/20/2026,accepted ,3/20/2026,4/1/2026,3/30/2026,Accepted,1/15/2026,1,76,Yes,No optional rounds,Infrastructure Delivery,Construction Management,11,Data & Technology
+OFF-00082,APP-002164,RC-0070,1,5/20/2025,5/24/2025,Accepted,5/24/2025,6/2/2025,5/31/2025,Accepted,3/14/2025,1,80,Yes,No optional rounds,Mobility Services,Traffic Operations,14,Data & Technology
+OFF-00083,APP-002176,RC-0071,1,11/8/2024,11/16/2024,accepted ,11/16/2024,12/4/2024,12/2/2024,Accepted,8/26/2024,1,100,No,Phone only,Administration & Finance,Budget & Grants,12,Engineering
+OFF-00084,APP-002203,RC-0072,1,3/13/2025,3/21/2025,ACCEPTED,3/21/2025,3/31/2025,3/29/2025,Accepted,12/20/2024,1,101,No,Phone + Tech,Administration & Finance,Talent & Operations,15,Business Administration
+OFF-00085,APP-002222,RC-0073,1,4/27/2026,5/1/2026,accepted ,5/1/2026,5/12/2026,5/10/2026,Accepted,2/24/2026,1,77,Yes,No optional rounds,Infrastructure Delivery,Construction Management,11,Business Administration
+OFF-00087,APP-002269,RC-0074,2,9/4/2026,9/10/2026,ACCEPTED,9/10/2026,10/19/2026,10/17/2026,Accepted,6/21/2026,2,120,No,No optional rounds,Planning & Innovation,Policy & Planning,13,Policy & Planning
+OFF-00088,APP-002336,RC-0075,1,6/3/2025,6/11/2025,ACCEPTED,6/11/2025,6/27/2025,6/25/2025,Accepted,3/29/2025,1,90,No,No optional rounds,Administration & Finance,Talent & Operations,12,Policy & Planning
+OFF-00090,APP-002376,RC-0076,2,5/4/2026,5/15/2026,ACCEPTED,5/15/2026,6/16/2026,6/14/2026,Accepted,3/1/2026,1,107,No,Tech only,Infrastructure Delivery,Construction Management,12,Business Administration
+OFF-00091,APP-002419,RC-0077,1,3/22/2026,4/1/2026,accepted ,4/1/2026,4/16/2026,4/14/2026,Accepted,1/20/2026,1,86,Yes,Phone only,Planning & Innovation,Community Programs,12,Policy & Planning
+OFF-00093,APP-002482,RC-0078,2,6/26/2026,7/7/2026,accepted ,7/7/2026,8/4/2026,8/2/2026,Accepted,3/27/2026,1,130,No,Phone only,Mobility Services,Traffic Operations,9,Policy & Planning
+OFF-00094,APP-002493,RC-0079,1,6/11/2024,6/19/2024,accepted ,6/19/2024,6/30/2024,6/28/2024,Accepted,4/12/2024,1,79,Yes,Tech only,Mobility Services,Transit Programs,12,Project Management
+OFF-00096,APP-002559,RC-0081,1,12/17/2025,12/23/2025,ACCEPTED,12/23/2025,1/9/2026,1/7/2026,Accepted,9/21/2025,1,110,No,No optional rounds,Mobility Services,Traffic Operations,13,Data & Technology
+OFF-00097,APP-002595,RC-0082,1,6/10/2024,6/16/2024,accepted ,6/16/2024,7/6/2024,7/4/2024,Accepted,4/4/2024,1,93,No,Phone only,Administration & Finance,Procurement Services,13,Project Management
+OFF-00098,APP-002618,RC-0083,1,10/13/2025,10/14/2025,accepted ,10/14/2025,10/27/2025,10/25/2025,Accepted,7/23/2025,1,96,No,Phone only,Mobility Services,Traffic Operations,9,Operations
+OFF-00099,APP-002650,RC-0084,1,1/3/2025,1/16/2025,Accepted,1/16/2025,2/2/2025,1/31/2025,Accepted,10/31/2024,1,94,No,Phone only,Administration & Finance,Budget & Grants,11,Data & Technology
+OFF-00100,APP-002690,RC-0085,1,8/18/2025,8/24/2025,Accepted,8/24/2025,9/2/2025,8/31/2025,Accepted,6/25/2025,1,69,Yes,No optional rounds,Planning & Innovation,Data & Analytics,14,Operations
+OFF-00101,APP-002707,RC-0086,1,4/16/2025,4/25/2025,Accepted,4/25/2025,5/8/2025,5/6/2025,Accepted,1/25/2025,1,103,No,Tech only,Mobility Services,Traffic Operations,14,Policy & Planning
+OFF-00102,APP-002766,RC-0087,1,4/30/2025,5/11/2025,Accepted,5/11/2025,5/28/2025,5/26/2025,Accepted,3/2/2025,1,87,Yes,No optional rounds,Mobility Services,Safety & Signals,12,Business Administration
+OFF-00104,APP-002788,RC-0088,2,5/13/2026,5/19/2026,ACCEPTED,5/19/2026,6/17/2026,6/15/2026,Accepted,3/9/2026,1,100,No,No optional rounds,Planning & Innovation,Policy & Planning,12,Data & Technology
+OFF-00105,APP-002803,RC-0089,1,9/18/2024,9/28/2024,ACCEPTED,9/28/2024,10/8/2024,10/6/2024,Accepted,7/12/2024,1,88,Yes,Phone + Tech,Infrastructure Delivery,Asset Programs,13,Project Management
+OFF-00107,APP-002846,RC-0090,2,10/14/2024,10/23/2024,ACCEPTED,10/23/2024,11/22/2024,11/20/2024,Accepted,6/27/2024,2,148,No,Phone + Tech,Planning & Innovation,Community Programs,11,Policy & Planning
+OFF-00108,APP-002868,RC-0090,3,10/16/2024,10/25/2024,Accepted,10/25/2024,12/11/2024,12/9/2024,Accepted,6/27/2024,2,167,No,Phone + Tech,Planning & Innovation,Community Programs,11,Policy & Planning
+OFF-00109,APP-002874,RC-0090,4,10/18/2024,10/27/2024,Accepted,10/27/2024,12/30/2024,12/28/2024,Accepted,6/27/2024,2,186,No,Phone + Tech,Planning & Innovation,Community Programs,11,Policy & Planning
+OFF-00110,APP-002900,RC-0091,1,1/20/2026,2/1/2026,accepted ,2/1/2026,2/12/2026,2/10/2026,Accepted,11/3/2025,1,101,No,Phone + Tech,Planning & Innovation,Data & Analytics,9,Project Management
+OFF-00111,APP-002901,RC-0091,2,1/22/2026,2/3/2026,Accepted,2/3/2026,3/3/2026,3/1/2026,Accepted,11/3/2025,1,120,No,Phone + Tech,Planning & Innovation,Data & Analytics,9,Project Management
+OFF-00112,APP-002938,RC-0092,1,1/24/2025,1/28/2025,accepted ,1/28/2025,2/15/2025,2/13/2025,Accepted,11/8/2024,1,99,No,No optional rounds,Mobility Services,Traffic Operations,12,Business Administration
+OFF-00113,APP-002974,RC-0093,1,10/12/2026,10/17/2026,Accepted,10/17/2026,10/31/2026,10/29/2026,Accepted,7/27/2026,1,96,No,Phone only,Administration & Finance,Talent & Operations,12,Engineering
+OFF-00115,APP-003042,RC-0094,2,5/25/2025,5/27/2025,accepted ,5/27/2025,7/2/2025,6/30/2025,Accepted,3/15/2025,1,109,No,Tech only,Mobility Services,Safety & Signals,13,Business Administration
+OFF-00116,APP-003053,RC-0095,1,2/9/2026,2/20/2026,ACCEPTED,2/20/2026,3/15/2026,3/13/2026,Accepted,12/3/2025,1,102,No,Phone only,Planning & Innovation,Community Programs,9,Operations
+OFF-00118,APP-003073,RC-0096,2,10/16/2025,10/19/2025,accepted ,10/19/2025,11/17/2025,11/15/2025,Accepted,8/5/2025,1,104,No,Tech only,Infrastructure Delivery,Asset Programs,14,Project Management
+OFF-00119,APP-003109,RC-0097,1,4/23/2025,5/1/2025,Accepted,5/1/2025,5/19/2025,5/17/2025,Accepted,2/6/2025,1,102,No,No optional rounds,Administration & Finance,Talent & Operations,11,Policy & Planning
+OFF-00120,APP-003116,RC-0097,2,4/25/2025,5/3/2025,Accepted,5/3/2025,6/7/2025,6/5/2025,Accepted,2/6/2025,1,121,No,No optional rounds,Administration & Finance,Talent & Operations,11,Policy & Planning
+OFF-00123,APP-003181,RC-0100,1,7/30/2024,8/8/2024,Accepted,8/8/2024,8/21/2024,8/19/2024,Accepted,5/27/2024,1,86,Yes,No optional rounds,Planning & Innovation,Data & Analytics,13,Policy & Planning
+OFF-00124,APP-003213,RC-0101,1,6/16/2026,6/21/2026,Accepted,6/21/2026,7/7/2026,7/5/2026,Accepted,4/30/2026,1,68,Yes,No optional rounds,Planning & Innovation,Data & Analytics,9,Project Management
+OFF-00125,APP-003215,RC-0101,2,6/18/2026,6/23/2026,ACCEPTED,6/23/2026,7/26/2026,7/24/2026,Accepted,4/30/2026,1,87,Yes,No optional rounds,Planning & Innovation,Data & Analytics,9,Project Management
+OFF-00126,APP-003249,RC-0102,1,9/9/2026,9/13/2026,Accepted,9/13/2026,9/25/2026,9/23/2026,Accepted,6/24/2026,2,93,No,No optional rounds,Planning & Innovation,Data & Analytics,14,Data & Technology
+OFF-00128,APP-003360,RC-0105,1,9/24/2026,9/26/2026,Accepted,9/26/2026,10/10/2026,10/8/2026,Accepted,7/13/2026,1,89,Yes,Phone + Tech,Infrastructure Delivery,Construction Management,9,Operations
+OFF-00129,APP-003380,RC-0106,1,7/24/2024,7/31/2024,ACCEPTED,7/31/2024,8/13/2024,8/11/2024,Accepted,5/21/2024,1,84,Yes,Phone only,Mobility Services,Transit Programs,13,Engineering
+OFF-00130,APP-003396,RC-0107,1,5/9/2026,5/20/2026,Accepted,5/20/2026,6/6/2026,6/4/2026,Accepted,2/26/2026,1,100,No,Tech only,Planning & Innovation,Data & Analytics,14,Business Administration
+OFF-00131,APP-003427,RC-0108,1,11/5/2025,11/15/2025,accepted ,11/15/2025,11/29/2025,11/27/2025,Accepted,8/5/2025,2,116,No,Tech only,Infrastructure Delivery,Construction Management,13,Business Administration
+OFF-00133,APP-003498,RC-0109,2,5/1/2025,5/4/2025,accepted ,5/4/2025,6/7/2025,6/5/2025,Accepted,2/23/2025,1,104,No,Tech only,Planning & Innovation,Policy & Planning,13,Policy & Planning
+OFF-00134,APP-003525,RC-0110,1,5/29/2026,6/1/2026,Accepted,6/1/2026,6/18/2026,6/16/2026,Accepted,3/17/2026,1,93,No,Phone + Tech,Planning & Innovation,Data & Analytics,11,Engineering
+OFF-00135,APP-003542,RC-0111,1,10/1/2025,10/8/2025,ACCEPTED,10/8/2025,10/21/2025,10/19/2025,Accepted,7/28/2025,1,85,Yes,No optional rounds,Infrastructure Delivery,Capital Projects,15,Project Management
+OFF-00136,APP-003564,RC-0112,1,7/25/2025,7/29/2025,accepted ,7/29/2025,8/15/2025,8/13/2025,Accepted,5/16/2025,1,91,No,Phone only,Mobility Services,Traffic Operations,11,Policy & Planning
+OFF-00137,APP-003612,RC-0113,1,10/27/2025,11/3/2025,accepted ,11/3/2025,11/23/2025,11/21/2025,Accepted,8/18/2025,1,97,No,Tech only,Administration & Finance,Procurement Services,13,Operations
+OFF-00138,APP-003642,RC-0114,1,4/12/2025,4/18/2025,ACCEPTED,4/18/2025,5/2/2025,4/30/2025,Accepted,1/27/2025,2,95,No,No optional rounds,Mobility Services,Transit Programs,12,Business Administration
+OFF-00139,APP-003721,RC-0115,1,8/19/2024,8/21/2024,ACCEPTED,8/21/2024,9/4/2024,9/2/2024,Accepted,6/4/2024,1,92,No,Tech only,Infrastructure Delivery,Asset Programs,12,Business Administration
+OFF-00140,APP-003766,RC-0116,1,8/19/2025,8/28/2025,ACCEPTED,8/28/2025,9/16/2025,9/14/2025,Accepted,5/6/2025,2,133,No,Phone only,Infrastructure Delivery,Capital Projects,12,Project Management
+OFF-00141,APP-003830,RC-0117,1,10/13/2024,10/18/2024,accepted ,10/18/2024,11/2/2024,10/31/2024,Accepted,7/22/2024,1,103,No,Tech only,Mobility Services,Transit Programs,12,Operations
+OFF-00142,APP-003831,RC-0117,2,10/15/2024,10/20/2024,Accepted,10/20/2024,11/21/2024,11/19/2024,Accepted,7/22/2024,1,122,No,Tech only,Mobility Services,Transit Programs,12,Operations
+OFF-00143,APP-003854,RC-0118,1,11/7/2024,11/12/2024,ACCEPTED,11/12/2024,11/29/2024,11/27/2024,Accepted,8/13/2024,1,108,No,Phone + Tech,Infrastructure Delivery,Construction Management,12,Business Administration
+OFF-00144,APP-003856,RC-0118,2,11/9/2024,11/14/2024,accepted ,11/14/2024,12/18/2024,12/16/2024,Accepted,8/13/2024,1,127,No,Phone + Tech,Infrastructure Delivery,Construction Management,12,Business Administration
+OFF-00145,APP-003908,RC-0119,1,11/14/2024,11/20/2024,Accepted,11/20/2024,12/8/2024,12/6/2024,Accepted,9/1/2024,1,98,No,Phone only,Administration & Finance,Procurement Services,13,Business Administration
+OFF-00146,APP-003910,RC-0119,2,11/16/2024,11/22/2024,ACCEPTED,11/22/2024,12/27/2024,12/25/2024,Accepted,9/1/2024,1,117,No,Phone only,Administration & Finance,Procurement Services,13,Business Administration
+OFF-00149,APP-003976,RC-0121,2,6/26/2025,7/4/2025,ACCEPTED,7/4/2025,7/29/2025,7/27/2025,Accepted,4/21/2025,1,99,No,Tech only,Planning & Innovation,Community Programs,11,Operations
+OFF-00150,APP-003990,RC-0122,1,12/8/2025,12/15/2025,ACCEPTED,12/15/2025,1/5/2026,1/3/2026,Accepted,9/9/2025,1,118,No,Phone + Tech,Planning & Innovation,Policy & Planning,15,Project Management
+OFF-00151,APP-004019,RC-0123,1,12/29/2024,1/5/2025,accepted ,1/5/2025,1/25/2025,1/23/2025,Accepted,11/5/2024,1,81,Yes,No optional rounds,Mobility Services,Transit Programs,13,Operations
+OFF-00152,APP-004034,RC-0124,1,5/22/2025,5/31/2025,Accepted,5/31/2025,6/18/2025,6/16/2025,Accepted,3/25/2025,1,85,Yes,Tech only,Planning & Innovation,Policy & Planning,12,Project Management
+OFF-00154,APP-004058,RC-0125,2,7/29/2025,8/6/2025,ACCEPTED,8/6/2025,9/8/2025,9/6/2025,Accepted,5/25/2025,1,106,No,No optional rounds,Planning & Innovation,Policy & Planning,13,Project Management
+OFF-00155,APP-004075,RC-0126,1,1/24/2026,1/27/2026,accepted ,1/27/2026,2/11/2026,2/9/2026,Accepted,11/26/2025,1,77,Yes,No optional rounds,Infrastructure Delivery,Asset Programs,14,Operations
+OFF-00156,APP-004111,RC-0127,1,6/20/2025,6/26/2025,Accepted,6/26/2025,7/8/2025,7/6/2025,Accepted,3/26/2025,2,104,No,No optional rounds,Mobility Services,Traffic Operations,11,Policy & Planning
+OFF-00157,APP-004177,RC-0128,1,10/5/2025,10/12/2025,ACCEPTED,10/12/2025,10/31/2025,10/29/2025,Accepted,7/20/2025,1,103,No,Phone + Tech,Mobility Services,Traffic Operations,14,Operations
+OFF-00159,APP-004207,RC-0129,2,2/21/2025,3/1/2025,ACCEPTED,3/1/2025,4/9/2025,4/7/2025,Accepted,11/12/2024,1,148,No,Phone + Tech,Infrastructure Delivery,Capital Projects,14,Operations
+OFF-00160,APP-004221,RC-0130,1,1/27/2026,2/8/2026,Accepted,2/8/2026,3/3/2026,3/1/2026,Accepted,10/31/2025,1,123,No,Tech only,Infrastructure Delivery,Capital Projects,13,Data & Technology
+OFF-00161,APP-004222,RC-0130,2,1/29/2026,2/10/2026,accepted ,2/10/2026,3/22/2026,3/20/2026,Accepted,10/31/2025,1,142,No,Tech only,Infrastructure Delivery,Capital Projects,13,Data & Technology
+OFF-00162,APP-004261,RC-0132,1,2/25/2026,3/6/2026,accepted ,3/6/2026,3/17/2026,3/15/2026,Accepted,12/16/2025,1,91,No,No optional rounds,Administration & Finance,Budget & Grants,12,Business Administration
+OFF-00163,APP-004286,RC-0133,1,1/2/2026,1/14/2026,Accepted,1/14/2026,2/3/2026,2/1/2026,Accepted,10/24/2025,1,102,No,Phone only,Mobility Services,Safety & Signals,11,Business Administration
+OFF-00164,APP-004305,RC-0134,1,4/1/2026,4/9/2026,Accepted,4/9/2026,4/27/2026,4/25/2026,Accepted,1/26/2026,1,91,No,Phone only,Mobility Services,Safety & Signals,12,Project Management
+OFF-00165,APP-004307,RC-0134,2,4/3/2026,4/11/2026,Accepted,4/11/2026,5/16/2026,5/14/2026,Accepted,1/26/2026,1,110,No,Phone only,Mobility Services,Safety & Signals,12,Project Management
+OFF-00166,APP-004340,RC-0135,1,6/3/2024,6/6/2024,accepted ,6/6/2024,6/22/2024,6/20/2024,Accepted,4/22/2024,1,61,Yes,No optional rounds,Administration & Finance,Budget & Grants,13,Business Administration
+OFF-00167,APP-004377,RC-0136,1,11/8/2025,11/17/2025,Accepted,11/17/2025,11/28/2025,11/26/2025,Accepted,9/5/2025,1,84,Yes,Phone only,Administration & Finance,Procurement Services,12,Engineering
+OFF-00168,APP-004419,RC-0137,1,12/5/2024,12/13/2024,accepted ,12/13/2024,1/1/2025,12/30/2024,Accepted,9/22/2024,1,101,No,Tech only,Mobility Services,Safety & Signals,13,Business Administration
+OFF-00169,APP-004420,RC-0137,2,12/7/2024,12/15/2024,accepted ,12/15/2024,1/20/2025,1/18/2025,Accepted,9/22/2024,1,120,No,Tech only,Mobility Services,Safety & Signals,13,Business Administration
+OFF-00170,APP-004421,RC-0137,3,12/9/2024,12/17/2024,accepted ,12/17/2024,2/8/2025,2/6/2025,Accepted,9/22/2024,1,139,No,Tech only,Mobility Services,Safety & Signals,13,Business Administration
+OFF-00171,APP-004439,RC-0138,1,6/30/2024,7/8/2024,Accepted,7/8/2024,7/25/2024,7/23/2024,Accepted,4/22/2024,1,94,No,Phone only,Administration & Finance,Talent & Operations,12,Data & Technology
+OFF-00172,APP-004456,RC-0139,1,4/23/2026,4/30/2026,Accepted,4/30/2026,5/17/2026,5/15/2026,Accepted,1/30/2026,1,107,No,Tech only,Infrastructure Delivery,Asset Programs,15,Policy & Planning
+OFF-00173,APP-004479,RC-0140,1,6/9/2024,6/18/2024,Accepted,6/18/2024,7/8/2024,7/6/2024,Accepted,4/6/2024,1,93,No,Phone only,Administration & Finance,Procurement Services,12,Operations
+OFF-00174,APP-004480,RC-0140,2,6/11/2024,6/20/2024,ACCEPTED,6/20/2024,7/27/2024,7/25/2024,Accepted,4/6/2024,1,112,No,Phone only,Administration & Finance,Procurement Services,12,Operations
+OFF-00175,APP-004500,RC-0141,1,4/15/2025,4/21/2025,ACCEPTED,4/21/2025,5/4/2025,5/2/2025,Accepted,2/16/2025,1,77,Yes,Phone only,Administration & Finance,Procurement Services,14,Data & Technology
+OFF-00176,APP-004534,RC-0142,1,8/31/2026,9/9/2026,Accepted,9/9/2026,9/26/2026,9/24/2026,Accepted,6/24/2026,1,94,No,Phone only,Planning & Innovation,Data & Analytics,14,Engineering
+OFF-00177,APP-004562,RC-0143,1,12/20/2024,12/22/2024,Accepted,12/22/2024,12/31/2024,12/29/2024,Accepted,10/6/2024,1,86,Yes,Tech only,Infrastructure Delivery,Construction Management,12,Project Management
+OFF-00178,APP-004578,RC-0144,1,5/1/2026,5/6/2026,Accepted,5/6/2026,5/17/2026,5/15/2026,Accepted,2/24/2026,1,82,Yes,Phone only,Administration & Finance,Budget & Grants,11,Engineering
+OFF-00179,APP-004582,RC-0144,2,5/3/2026,5/8/2026,Accepted,5/8/2026,6/5/2026,6/3/2026,Accepted,2/24/2026,1,101,No,Phone only,Administration & Finance,Budget & Grants,11,Engineering
+OFF-00182,APP-004714,RC-0148,2,8/26/2025,9/6/2025,accepted ,9/6/2025,10/4/2025,10/2/2025,Accepted,6/11/2025,1,115,No,No optional rounds,Administration & Finance,Talent & Operations,11,Project Management
+OFF-00183,APP-004715,RC-0148,3,8/28/2025,9/8/2025,ACCEPTED,9/8/2025,10/23/2025,10/21/2025,Accepted,6/11/2025,1,134,No,No optional rounds,Administration & Finance,Talent & Operations,11,Project Management
+OFF-00184,APP-004751,RC-0149,1,7/27/2025,8/5/2025,accepted ,8/5/2025,8/15/2025,8/13/2025,Accepted,5/31/2025,1,76,Yes,Phone only,Infrastructure Delivery,Asset Programs,11,Business Administration
+OFF-00185,APP-004753,RC-0149,2,7/29/2025,8/7/2025,accepted ,8/7/2025,9/3/2025,9/1/2025,Accepted,5/31/2025,1,95,No,Phone only,Infrastructure Delivery,Asset Programs,11,Business Administration
+OFF-00187,APP-004800,RC-0150,2,2/13/2026,2/19/2026,ACCEPTED,2/19/2026,3/23/2026,3/21/2026,Accepted,12/3/2025,1,110,No,Tech only,Infrastructure Delivery,Construction Management,11,Business Administration
+OFF-00188,APP-004821,RC-0151,1,6/4/2024,6/16/2024,Accepted,6/16/2024,7/1/2024,6/29/2024,Accepted,3/31/2024,1,92,No,Phone only,Infrastructure Delivery,Asset Programs,13,Operations
+OFF-00189,APP-004822,RC-0151,2,6/6/2024,6/18/2024,accepted ,6/18/2024,7/20/2024,7/18/2024,Accepted,3/31/2024,1,111,No,Phone only,Infrastructure Delivery,Asset Programs,13,Operations
+OFF-00191,APP-004890,RC-0153,1,7/18/2026,7/24/2026,accepted ,7/24/2026,8/5/2026,8/3/2026,Accepted,5/12/2026,1,85,Yes,Tech only,Planning & Innovation,Policy & Planning,13,Engineering
+OFF-00192,APP-004920,RC-0154,1,6/15/2025,6/18/2025,Accepted,6/18/2025,6/30/2025,6/28/2025,Accepted,2/24/2025,2,126,No,Tech only,Mobility Services,Traffic Operations,13,Engineering
+OFF-00193,APP-004960,RC-0155,1,2/6/2026,2/14/2026,Accepted,2/14/2026,2/25/2026,2/23/2026,Accepted,12/21/2025,1,66,Yes,No optional rounds,Infrastructure Delivery,Asset Programs,12,Engineering
+OFF-00195,APP-005001,RC-0156,2,6/10/2026,6/15/2026,Accepted,6/15/2026,7/19/2026,7/17/2026,Accepted,3/28/2026,1,113,No,Tech only,Infrastructure Delivery,Asset Programs,12,Project Management
+OFF-00196,APP-005043,RC-0157,1,5/30/2025,6/4/2025,Accepted,6/4/2025,6/24/2025,6/22/2025,Accepted,4/1/2025,1,84,Yes,No optional rounds,Mobility Services,Safety & Signals,12,Business Administration
+OFF-00197,APP-005076,RC-0159,1,2/18/2025,3/1/2025,ACCEPTED,3/1/2025,3/17/2025,3/15/2025,Accepted,11/16/2024,2,121,No,Phone + Tech,Mobility Services,Traffic Operations,12,Business Administration
+OFF-00198,APP-005083,RC-0159,2,2/20/2025,3/3/2025,Accepted,3/3/2025,4/5/2025,4/3/2025,Accepted,11/16/2024,2,140,No,Phone + Tech,Mobility Services,Traffic Operations,12,Business Administration
+OFF-00199,APP-005157,RC-0160,1,4/4/2026,4/9/2026,ACCEPTED,4/9/2026,4/21/2026,4/19/2026,Accepted,2/3/2026,1,77,Yes,No optional rounds,Administration & Finance,Talent & Operations,13,Operations
+OFF-00200,APP-005177,RC-0161,1,8/23/2024,8/30/2024,accepted ,8/30/2024,9/10/2024,9/8/2024,Accepted,6/13/2024,1,89,Yes,Tech only,Mobility Services,Transit Programs,11,Project Management
+OFF-00201,APP-005208,RC-0162,1,11/15/2025,11/17/2025,ACCEPTED,11/17/2025,11/30/2025,11/28/2025,Accepted,9/1/2025,1,90,No,Phone + Tech,Infrastructure Delivery,Asset Programs,12,Policy & Planning
+OFF-00202,APP-005259,RC-0163,1,2/8/2025,2/14/2025,accepted ,2/14/2025,2/25/2025,2/23/2025,Accepted,11/30/2024,1,87,Yes,Tech only,Infrastructure Delivery,Construction Management,13,Operations
+OFF-00203,APP-005340,RC-0166,1,7/16/2026,7/25/2026,ACCEPTED,7/25/2026,8/11/2026,8/9/2026,Accepted,4/17/2026,2,116,No,Phone only,Mobility Services,Safety & Signals,12,Engineering
+OFF-00204,APP-005342,RC-0166,2,7/18/2026,7/27/2026,ACCEPTED,7/27/2026,8/30/2026,8/28/2026,Accepted,4/17/2026,2,135,No,Phone only,Mobility Services,Safety & Signals,12,Engineering
+OFF-00205,APP-005345,RC-0166,3,7/20/2026,7/29/2026,Accepted,7/29/2026,9/18/2026,9/16/2026,Accepted,4/17/2026,2,154,No,Phone only,Mobility Services,Safety & Signals,12,Engineering
+OFF-00206,APP-005376,RC-0167,1,7/2/2024,7/15/2024,accepted ,7/15/2024,7/30/2024,7/28/2024,Accepted,4/22/2024,1,99,No,No optional rounds,Administration & Finance,Talent & Operations,14,Project Management
+OFF-00208,APP-005402,RC-0168,2,9/5/2024,9/11/2024,Accepted,9/11/2024,10/9/2024,10/7/2024,Accepted,7/13/2024,1,88,Yes,No optional rounds,Administration & Finance,Budget & Grants,9,Engineering
+OFF-00209,APP-005422,RC-0169,1,5/26/2024,6/7/2024,Accepted,6/7/2024,6/30/2024,6/28/2024,Accepted,3/23/2024,1,99,No,No optional rounds,Infrastructure Delivery,Capital Projects,13,Policy & Planning
+OFF-00210,APP-005459,RC-0170,1,8/4/2026,8/12/2026,ACCEPTED,8/12/2026,8/24/2026,8/22/2026,Accepted,4/27/2026,1,119,No,Phone + Tech,Infrastructure Delivery,Capital Projects,14,Policy & Planning
+OFF-00211,APP-005504,RC-0171,1,11/15/2024,11/19/2024,accepted ,11/19/2024,12/3/2024,12/1/2024,Accepted,8/31/2024,1,94,No,Phone + Tech,Planning & Innovation,Community Programs,12,Data & Technology
+OFF-00212,APP-005518,RC-0172,1,9/14/2026,9/17/2026,accepted ,9/17/2026,9/28/2026,9/26/2026,Accepted,7/23/2026,1,67,Yes,Phone only,Mobility Services,Safety & Signals,13,Operations
+OFF-00213,APP-005552,RC-0173,1,10/9/2024,10/15/2024,accepted ,10/15/2024,11/1/2024,10/30/2024,Accepted,7/17/2024,2,107,No,Phone only,Infrastructure Delivery,Asset Programs,13,Project Management
+OFF-00214,APP-005595,RC-0174,1,4/4/2026,4/14/2026,Accepted,4/14/2026,4/26/2026,4/24/2026,Accepted,2/6/2026,1,79,Yes,No optional rounds,Mobility Services,Safety & Signals,9,Policy & Planning
+OFF-00215,APP-005641,RC-0175,1,12/29/2024,1/6/2025,Accepted,1/6/2025,1/19/2025,1/17/2025,Accepted,10/22/2024,1,89,Yes,Tech only,Administration & Finance,Budget & Grants,13,Project Management
+OFF-00216,APP-005675,RC-0176,1,6/23/2025,7/3/2025,Accepted,7/3/2025,7/13/2025,7/11/2025,Accepted,4/8/2025,1,96,No,Tech only,Infrastructure Delivery,Construction Management,14,Policy & Planning
+OFF-00217,APP-005678,RC-0176,2,6/25/2025,7/5/2025,Accepted,7/5/2025,8/1/2025,7/30/2025,Accepted,4/8/2025,1,115,No,Tech only,Infrastructure Delivery,Construction Management,14,Policy & Planning
+OFF-00218,APP-005704,RC-0177,1,8/2/2026,8/10/2026,accepted ,8/10/2026,8/27/2026,8/25/2026,Accepted,5/23/2026,1,96,No,Phone only,Mobility Services,Transit Programs,14,Operations
+OFF-00219,APP-005740,RC-0179,1,4/8/2026,4/12/2026,Accepted,4/12/2026,4/24/2026,4/22/2026,Accepted,2/21/2026,1,62,Yes,No optional rounds,Infrastructure Delivery,Construction Management,9,Engineering
+OFF-00220,APP-005741,RC-0179,2,4/10/2026,4/14/2026,ACCEPTED,4/14/2026,5/13/2026,5/11/2026,Accepted,2/21/2026,1,81,Yes,No optional rounds,Infrastructure Delivery,Construction Management,9,Engineering
+OFF-00221,APP-005742,RC-0179,3,4/12/2026,4/16/2026,Accepted,4/16/2026,6/1/2026,5/30/2026,Accepted,2/21/2026,1,100,No,No optional rounds,Infrastructure Delivery,Construction Management,9,Engineering
+OFF-00223,APP-005776,RC-0180,2,2/17/2026,2/22/2026,accepted ,2/22/2026,4/3/2026,4/1/2026,Accepted,12/13/2025,1,111,No,No optional rounds,Infrastructure Delivery,Asset Programs,15,Policy & Planning
+OFF-00224,APP-005781,RC-0180,3,2/19/2026,2/24/2026,ACCEPTED,2/24/2026,4/22/2026,4/20/2026,Accepted,12/13/2025,1,130,No,No optional rounds,Infrastructure Delivery,Asset Programs,15,Policy & Planning
+OFF-00225,APP-005782,RC-0180,4,2/21/2026,2/26/2026,Accepted,2/26/2026,5/11/2026,5/9/2026,Accepted,12/13/2025,1,149,No,No optional rounds,Infrastructure Delivery,Asset Programs,15,Policy & Planning
+OFF-00226,APP-005817,RC-0181,1,2/7/2025,2/16/2025,Accepted,2/16/2025,2/26/2025,2/24/2025,Accepted,11/26/2024,1,92,No,Phone only,Mobility Services,Safety & Signals,13,Project Management
+OFF-00227,APP-005836,RC-0182,1,9/16/2025,9/23/2025,accepted ,9/23/2025,10/5/2025,10/3/2025,Accepted,7/23/2025,1,74,Yes,No optional rounds,Administration & Finance,Procurement Services,11,Engineering
+OFF-00231,APP-005903,RC-0184,2,10/8/2025,10/10/2025,ACCEPTED,10/10/2025,11/4/2025,11/2/2025,Accepted,8/4/2025,1,92,No,Phone only,Planning & Innovation,Policy & Planning,9,Business Administration
+OFF-00232,APP-005924,RC-0185,1,3/5/2025,3/11/2025,ACCEPTED,3/11/2025,3/23/2025,3/21/2025,Accepted,12/13/2024,1,100,No,Phone + Tech,Infrastructure Delivery,Construction Management,12,Engineering
+OFF-00233,APP-005960,RC-0186,1,12/28/2025,12/29/2025,accepted ,12/29/2025,1/21/2026,1/19/2026,Accepted,10/29/2025,1,84,Yes,No optional rounds,Planning & Innovation,Policy & Planning,14,Engineering
+OFF-00235,APP-006033,RC-0189,1,10/11/2024,10/21/2024,ACCEPTED,10/21/2024,11/8/2024,11/6/2024,Accepted,7/25/2024,1,106,No,Phone + Tech,Infrastructure Delivery,Construction Management,13,Business Administration
+OFF-00236,APP-006075,RC-0190,1,7/24/2026,8/1/2026,accepted ,8/1/2026,8/16/2026,8/14/2026,Accepted,5/24/2026,1,84,Yes,No optional rounds,Administration & Finance,Procurement Services,12,Policy & Planning
+OFF-00237,APP-006119,RC-0191,1,5/9/2025,5/18/2025,Accepted,5/18/2025,6/5/2025,6/3/2025,Accepted,2/26/2025,1,99,No,Tech only,Planning & Innovation,Data & Analytics,13,Business Administration
+OFF-00238,APP-006143,RC-0192,1,10/12/2024,10/20/2024,accepted ,10/20/2024,10/30/2024,10/28/2024,Accepted,8/22/2024,1,69,Yes,No optional rounds,Planning & Innovation,Community Programs,13,Project Management
+OFF-00239,APP-006180,RC-0193,1,8/19/2024,8/31/2024,Accepted,8/31/2024,9/15/2024,9/13/2024,Accepted,6/7/2024,1,100,No,Tech only,Administration & Finance,Procurement Services,11,Policy & Planning
+OFF-00240,APP-006217,RC-0194,1,5/24/2025,5/31/2025,ACCEPTED,5/31/2025,6/15/2025,6/13/2025,Accepted,3/30/2025,1,77,Yes,Phone only,Planning & Innovation,Data & Analytics,12,Project Management
+OFF-00241,APP-006246,RC-0195,1,7/5/2024,7/14/2024,Accepted,7/14/2024,8/3/2024,8/1/2024,Accepted,4/21/2024,1,104,No,Tech only,Administration & Finance,Talent & Operations,12,Operations
+OFF-00242,APP-006272,RC-0196,1,5/5/2026,5/14/2026,ACCEPTED,5/14/2026,5/26/2026,5/24/2026,Accepted,3/1/2026,1,86,Yes,No optional rounds,Administration & Finance,Talent & Operations,13,Business Administration
+OFF-00243,APP-006314,RC-0197,1,11/26/2025,12/3/2025,ACCEPTED,12/3/2025,12/12/2025,12/10/2025,Accepted,9/23/2025,1,80,Yes,Tech only,Planning & Innovation,Policy & Planning,13,Operations
+OFF-00244,APP-006342,RC-0198,1,6/2/2026,6/10/2026,accepted ,6/10/2026,6/26/2026,6/24/2026,Accepted,4/9/2026,1,78,Yes,No optional rounds,Mobility Services,Transit Programs,9,Engineering
+OFF-00246,APP-006370,RC-0199,2,11/9/2024,11/15/2024,Accepted,11/15/2024,12/15/2024,12/13/2024,Accepted,8/27/2024,1,110,No,Phone only,Mobility Services,Safety & Signals,11,Operations
+OFF-00247,APP-006434,RC-0201,1,5/19/2026,5/27/2026,ACCEPTED,5/27/2026,6/10/2026,6/8/2026,Accepted,2/26/2026,1,104,No,Tech only,Planning & Innovation,Data & Analytics,12,Business Administration
+OFF-00249,APP-006484,RC-0202,2,8/4/2026,8/11/2026,accepted ,8/11/2026,9/15/2026,9/13/2026,Accepted,5/29/2026,1,109,No,Tech only,Infrastructure Delivery,Asset Programs,12,Business Administration
+OFF-00250,APP-006526,RC-0203,1,8/31/2024,9/8/2024,accepted ,9/8/2024,9/24/2024,9/22/2024,Accepted,7/8/2024,1,78,Yes,No optional rounds,Planning & Innovation,Policy & Planning,9,Project Management
+OFF-00251,APP-006542,RC-0204,1,6/22/2025,6/29/2025,Accepted,6/29/2025,7/13/2025,7/11/2025,Accepted,4/25/2025,1,79,Yes,No optional rounds,Mobility Services,Safety & Signals,15,Data & Technology
+OFF-00252,APP-006561,RC-0205,1,5/11/2024,5/16/2024,ACCEPTED,5/16/2024,5/28/2024,5/26/2024,Accepted,3/1/2024,1,88,Yes,No optional rounds,Mobility Services,Traffic Operations,12,Engineering
+OFF-00253,APP-006581,RC-0207,1,10/31/2024,11/5/2024,accepted ,11/5/2024,11/15/2024,11/13/2024,Accepted,9/5/2024,1,71,Yes,Tech only,Planning & Innovation,Community Programs,9,Business Administration
+OFF-00254,APP-006599,RC-0208,1,4/25/2025,5/1/2025,accepted ,5/1/2025,5/23/2025,5/21/2025,Accepted,2/9/2025,1,103,No,Phone only,Administration & Finance,Procurement Services,11,Data & Technology
+OFF-00255,APP-006612,RC-0209,1,7/13/2026,7/20/2026,Accepted,7/20/2026,8/6/2026,8/4/2026,Accepted,4/18/2026,2,110,No,No optional rounds,Infrastructure Delivery,Asset Programs,11,Business Administration
+OFF-00256,APP-006614,RC-0209,2,7/15/2026,7/22/2026,accepted ,7/22/2026,8/25/2026,8/23/2026,Accepted,4/18/2026,2,129,No,No optional rounds,Infrastructure Delivery,Asset Programs,11,Business Administration
+OFF-00257,APP-006617,RC-0209,3,7/17/2026,7/24/2026,ACCEPTED,7/24/2026,9/13/2026,9/11/2026,Accepted,4/18/2026,2,148,No,No optional rounds,Infrastructure Delivery,Asset Programs,11,Business Administration
+OFF-00258,APP-006697,RC-0210,1,8/2/2025,8/5/2025,Accepted,8/5/2025,8/19/2025,8/17/2025,Accepted,6/2/2025,1,78,Yes,No optional rounds,Planning & Innovation,Community Programs,12,Business Administration
+OFF-00259,APP-006735,RC-0211,1,9/26/2025,10/5/2025,ACCEPTED,10/5/2025,10/24/2025,10/22/2025,Accepted,7/4/2025,2,112,No,Phone only,Planning & Innovation,Data & Analytics,14,Engineering
+OFF-00260,APP-006851,RC-0214,1,8/30/2025,9/8/2025,ACCEPTED,9/8/2025,9/16/2025,9/14/2025,Accepted,6/22/2025,1,86,Yes,Tech only,Administration & Finance,Talent & Operations,11,Project Management
+OFF-00261,APP-006857,RC-0214,2,9/1/2025,9/10/2025,Accepted,9/10/2025,10/5/2025,10/3/2025,Accepted,6/22/2025,1,105,No,Tech only,Administration & Finance,Talent & Operations,11,Project Management
+OFF-00262,APP-006880,RC-0215,1,4/19/2024,4/30/2024,accepted ,4/30/2024,5/20/2024,5/18/2024,Accepted,2/21/2024,1,89,Yes,Phone only,Planning & Innovation,Policy & Planning,12,Engineering
+OFF-00263,APP-006894,RC-0216,1,6/7/2026,6/17/2026,Accepted,6/17/2026,6/30/2026,6/28/2026,Accepted,4/9/2026,1,82,Yes,Phone only,Infrastructure Delivery,Asset Programs,14,Operations
+OFF-00264,APP-006916,RC-0217,1,9/8/2025,9/14/2025,accepted ,9/14/2025,9/27/2025,9/25/2025,Accepted,6/21/2025,1,98,No,Tech only,Infrastructure Delivery,Asset Programs,13,Policy & Planning
+OFF-00265,APP-006930,RC-0218,1,12/15/2024,12/21/2024,ACCEPTED,12/21/2024,1/4/2025,1/2/2025,Accepted,10/21/2024,1,75,Yes,No optional rounds,Mobility Services,Transit Programs,11,Policy & Planning
+OFF-00266,APP-006935,RC-0218,2,12/17/2024,12/23/2024,Accepted,12/23/2024,1/23/2025,1/21/2025,Accepted,10/21/2024,1,94,No,No optional rounds,Mobility Services,Transit Programs,11,Policy & Planning
+OFF-00267,APP-006936,RC-0218,3,12/19/2024,12/25/2024,accepted ,12/25/2024,2/11/2025,2/9/2025,Accepted,10/21/2024,1,113,No,No optional rounds,Mobility Services,Transit Programs,11,Policy & Planning
+OFF-00269,APP-006968,RC-0219,2,3/20/2025,3/23/2025,ACCEPTED,3/23/2025,4/27/2025,4/25/2025,Accepted,12/13/2024,2,135,No,Phone + Tech,Infrastructure Delivery,Asset Programs,11,Operations
+OFF-00270,APP-006971,RC-0219,3,3/22/2025,3/25/2025,accepted ,3/25/2025,5/16/2025,5/14/2025,Accepted,12/13/2024,2,154,No,Phone + Tech,Infrastructure Delivery,Asset Programs,11,Operations
+OFF-00272,APP-007029,RC-0220,2,8/16/2024,8/21/2024,ACCEPTED,8/21/2024,9/24/2024,9/22/2024,Accepted,5/26/2024,1,121,No,Tech only,Infrastructure Delivery,Capital Projects,11,Business Administration
+OFF-00273,APP-007049,RC-0221,1,3/23/2025,3/31/2025,Accepted,3/31/2025,4/16/2025,4/14/2025,Accepted,1/9/2025,1,97,No,Tech only,Infrastructure Delivery,Capital Projects,12,Project Management
+OFF-00274,APP-007062,RC-0222,1,9/9/2024,9/13/2024,accepted ,9/13/2024,9/23/2024,9/21/2024,Accepted,7/11/2024,1,74,Yes,No optional rounds,Planning & Innovation,Community Programs,9,Operations
+OFF-00275,APP-007083,RC-0223,1,12/5/2025,12/11/2025,accepted ,12/11/2025,12/27/2025,12/25/2025,Accepted,9/8/2025,2,110,No,Tech only,Administration & Finance,Budget & Grants,13,Engineering
+OFF-00276,APP-007167,RC-0224,1,9/15/2026,9/22/2026,ACCEPTED,9/22/2026,10/6/2026,10/4/2026,Accepted,6/24/2026,1,104,No,Tech only,Mobility Services,Traffic Operations,13,Policy & Planning
+OFF-00277,APP-007183,RC-0225,1,4/7/2025,4/16/2025,Accepted,4/16/2025,4/26/2025,4/24/2025,Accepted,1/26/2025,1,90,No,Phone + Tech,Infrastructure Delivery,Construction Management,12,Business Administration
+OFF-00279,APP-007230,RC-0226,2,3/23/2025,3/28/2025,ACCEPTED,3/28/2025,4/25/2025,4/23/2025,Accepted,1/29/2025,1,86,Yes,No optional rounds,Infrastructure Delivery,Construction Management,11,Operations
+OFF-00282,APP-007315,RC-0229,1,5/29/2026,6/4/2026,accepted ,6/4/2026,6/16/2026,6/14/2026,Accepted,3/30/2026,1,78,Yes,No optional rounds,Planning & Innovation,Policy & Planning,11,Policy & Planning
+OFF-00283,APP-007343,RC-0230,1,5/20/2025,5/30/2025,ACCEPTED,5/30/2025,6/20/2025,6/18/2025,Accepted,3/22/2025,1,90,No,No optional rounds,Mobility Services,Transit Programs,14,Engineering
+OFF-00284,APP-007370,RC-0231,1,9/9/2025,9/16/2025,accepted ,9/16/2025,10/8/2025,10/6/2025,Accepted,6/29/2025,1,101,No,Tech only,Planning & Innovation,Data & Analytics,14,Policy & Planning
+OFF-00285,APP-007439,RC-0232,1,9/17/2026,9/23/2026,accepted ,9/23/2026,10/3/2026,10/1/2026,Accepted,6/8/2026,2,117,No,Phone + Tech,Administration & Finance,Budget & Grants,12,Engineering
+OFF-00286,APP-007444,RC-0232,2,9/19/2026,9/25/2026,Accepted,9/25/2026,10/22/2026,10/20/2026,Accepted,6/8/2026,2,136,No,Phone + Tech,Administration & Finance,Budget & Grants,12,Engineering
+OFF-00287,APP-007488,RC-0234,1,9/23/2024,10/2/2024,accepted ,10/2/2024,10/17/2024,10/15/2024,Accepted,6/13/2024,1,126,No,Phone + Tech,Infrastructure Delivery,Capital Projects,13,Project Management
+OFF-00289,APP-007525,RC-0235,2,4/2/2026,4/13/2026,accepted ,4/13/2026,5/17/2026,5/15/2026,Accepted,1/23/2026,1,114,No,Tech only,Planning & Innovation,Policy & Planning,14,Operations
+OFF-00290,APP-007543,RC-0236,1,3/12/2025,3/17/2025,Accepted,3/17/2025,4/4/2025,4/2/2025,Accepted,12/20/2024,1,105,No,Tech only,Infrastructure Delivery,Asset Programs,14,Policy & Planning
+OFF-00292,APP-007590,RC-0237,2,9/14/2025,9/19/2025,Accepted,9/19/2025,10/27/2025,10/25/2025,Accepted,7/2/2025,1,117,No,Phone + Tech,Planning & Innovation,Data & Analytics,12,Data & Technology
+OFF-00295,APP-007644,RC-0239,2,11/4/2024,11/8/2024,ACCEPTED,11/8/2024,12/3/2024,12/1/2024,Accepted,8/14/2024,1,111,No,Tech only,Infrastructure Delivery,Capital Projects,14,Policy & Planning
+OFF-00301,APP-007807,RC-0243,2,9/8/2024,9/11/2024,accepted ,9/11/2024,10/9/2024,10/7/2024,Accepted,6/30/2024,1,101,No,No optional rounds,Infrastructure Delivery,Capital Projects,11,Business Administration
+OFF-00302,APP-007839,RC-0244,1,6/3/2025,6/10/2025,accepted ,6/10/2025,6/23/2025,6/21/2025,Accepted,4/4/2025,1,80,Yes,Tech only,Infrastructure Delivery,Asset Programs,11,Business Administration
+OFF-00303,APP-007883,RC-0245,1,5/13/2026,5/21/2026,ACCEPTED,5/21/2026,6/3/2026,6/1/2026,Accepted,3/20/2026,1,75,Yes,No optional rounds,Infrastructure Delivery,Construction Management,14,Business Administration
+OFF-00304,APP-007884,RC-0245,2,5/15/2026,5/23/2026,ACCEPTED,5/23/2026,6/22/2026,6/20/2026,Accepted,3/20/2026,1,94,No,No optional rounds,Infrastructure Delivery,Construction Management,14,Business Administration
+OFF-00305,APP-007930,RC-0246,1,5/20/2026,5/28/2026,Accepted,5/28/2026,6/11/2026,6/9/2026,Accepted,3/29/2026,1,74,Yes,No optional rounds,Mobility Services,Safety & Signals,12,Business Administration
+OFF-00306,APP-007979,RC-0247,1,6/18/2024,6/22/2024,accepted ,6/22/2024,7/2/2024,6/30/2024,Accepted,4/23/2024,1,70,Yes,No optional rounds,Planning & Innovation,Data & Analytics,11,Engineering
+OFF-00307,APP-008012,RC-0248,1,1/18/2025,1/22/2025,ACCEPTED,1/22/2025,2/9/2025,2/7/2025,Accepted,11/24/2024,1,77,Yes,No optional rounds,Planning & Innovation,Community Programs,11,Operations
+OFF-00308,APP-008044,RC-0249,1,5/21/2024,5/29/2024,ACCEPTED,5/29/2024,6/14/2024,6/12/2024,Accepted,3/21/2024,1,85,Yes,No optional rounds,Administration & Finance,Budget & Grants,12,Business Administration
+OFF-00309,APP-008076,RC-0250,1,7/28/2024,8/4/2024,Accepted,8/4/2024,8/12/2024,8/10/2024,Accepted,5/29/2024,1,75,Yes,No optional rounds,Planning & Innovation,Data & Analytics,13,Engineering
+OFF-00310,APP-008116,RC-0251,1,4/6/2025,4/9/2025,Accepted,4/9/2025,4/24/2025,4/22/2025,Accepted,1/16/2025,1,98,No,Tech only,Administration & Finance,Budget & Grants,12,Operations
+OFF-00311,APP-008158,RC-0252,1,12/14/2025,12/20/2025,accepted ,12/20/2025,1/5/2026,1/3/2026,Accepted,10/19/2025,1,78,Yes,No optional rounds,Mobility Services,Traffic Operations,9,Business Administration
+OFF-00312,APP-008209,RC-0253,1,10/5/2025,10/9/2025,ACCEPTED,10/9/2025,10/24/2025,10/22/2025,Accepted,6/27/2025,2,119,No,Phone + Tech,Mobility Services,Transit Programs,12,Project Management
+OFF-00313,APP-008270,RC-0254,1,6/15/2025,6/17/2025,accepted ,6/17/2025,7/1/2025,6/29/2025,Accepted,4/5/2025,1,87,Yes,No optional rounds,Administration & Finance,Budget & Grants,9,Operations
+OFF-00314,APP-008306,RC-0255,1,5/30/2025,6/3/2025,ACCEPTED,6/3/2025,6/16/2025,6/14/2025,Accepted,3/22/2025,1,86,Yes,Phone only,Planning & Innovation,Policy & Planning,12,Operations
+OFF-00315,APP-008333,RC-0256,1,12/16/2025,12/19/2025,accepted ,12/19/2025,1/2/2026,12/31/2025,Accepted,10/15/2025,1,79,Yes,No optional rounds,Mobility Services,Safety & Signals,9,Project Management
+OFF-00316,APP-008357,RC-0257,1,4/4/2025,4/14/2025,Accepted,4/14/2025,4/22/2025,4/20/2025,Accepted,1/21/2025,2,91,No,No optional rounds,Mobility Services,Transit Programs,13,Engineering
+OFF-00317,APP-008411,RC-0258,1,4/10/2025,4/14/2025,ACCEPTED,4/14/2025,4/24/2025,4/22/2025,Accepted,1/16/2025,1,98,No,No optional rounds,Infrastructure Delivery,Capital Projects,12,Engineering
+OFF-00318,APP-008428,RC-0259,1,12/24/2025,1/3/2026,accepted ,1/3/2026,1/21/2026,1/19/2026,Accepted,10/12/2025,1,101,No,Phone + Tech,Planning & Innovation,Community Programs,14,Operations
+OFF-00319,APP-008470,RC-0260,1,8/30/2024,9/10/2024,accepted ,9/10/2024,9/25/2024,9/23/2024,Accepted,7/4/2024,1,83,Yes,No optional rounds,Infrastructure Delivery,Asset Programs,12,Business Administration
+OFF-00329,APP-008727,RC-0269,1,1/12/2025,1/19/2025,Accepted,1/19/2025,2/10/2025,2/8/2025,Accepted,11/6/2024,1,96,No,No optional rounds,Administration & Finance,Talent & Operations,9,Project Management
+OFF-00330,APP-008750,RC-0270,1,4/19/2025,4/29/2025,ACCEPTED,4/29/2025,5/19/2025,5/17/2025,Accepted,2/17/2025,1,91,No,No optional rounds,Mobility Services,Transit Programs,13,Policy & Planning
+OFF-00331,APP-008784,RC-0271,1,9/17/2026,9/29/2026,ACCEPTED,9/29/2026,10/11/2026,10/9/2026,Accepted,7/26/2026,1,77,Yes,No optional rounds,Administration & Finance,Budget & Grants,12,Engineering
+OFF-00332,APP-008798,RC-0271,2,9/19/2026,10/1/2026,Accepted,10/1/2026,10/30/2026,10/28/2026,Accepted,7/26/2026,1,96,No,No optional rounds,Administration & Finance,Budget & Grants,12,Engineering
+OFF-00333,APP-008814,RC-0272,1,9/28/2026,9/30/2026,ACCEPTED,9/30/2026,10/16/2026,10/14/2026,Accepted,8/5/2026,1,72,Yes,No optional rounds,Planning & Innovation,Community Programs,9,Engineering
+OFF-00339,APP-008891,RC-0275,1,9/30/2026,10/9/2026,ACCEPTED,10/9/2026,10/22/2026,10/20/2026,Accepted,8/2/2026,1,81,Yes,No optional rounds,Mobility Services,Safety & Signals,12,Operations
+OFF-00341,APP-008909,RC-0276,1,10/2/2026,10/9/2026,ACCEPTED,10/9/2026,10/19/2026,10/17/2026,Accepted,8/3/2026,1,77,Yes,No optional rounds,Administration & Finance,Budget & Grants,12,Engineering
+OFF-00350,APP-009042,RC-0280,1,9/29/2026,10/6/2026,ACCEPTED,10/6/2026,10/21/2026,10/19/2026,Accepted,8/10/2026,1,72,Yes,No optional rounds,Planning & Innovation,Community Programs,12,Engineering
+OFF-00352,APP-009071,RC-0281,1,7/23/2024,7/25/2024,ACCEPTED,7/25/2024,8/10/2024,8/8/2024,Accepted,5/20/2024,1,82,Yes,Tech only,Planning & Innovation,Policy & Planning,11,Project Management
+OFF-00353,APP-009096,RC-0283,1,3/11/2025,3/16/2025,accepted ,3/16/2025,4/1/2025,3/30/2025,Accepted,12/31/2024,1,91,No,Tech only,Infrastructure Delivery,Construction Management,11,Policy & Planning
+OFF-00356,APP-009187,RC-0285,2,7/13/2025,7/18/2025,accepted ,7/18/2025,8/19/2025,8/17/2025,Accepted,4/5/2025,2,136,No,Phone only,Administration & Finance,Talent & Operations,12,Operations

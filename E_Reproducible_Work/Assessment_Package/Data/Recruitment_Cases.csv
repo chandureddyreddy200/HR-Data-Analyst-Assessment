@@ -1,0 +1,306 @@
+﻿Case_ID,Administration,Division,HM_ID,Grade,Job_Family,Recruitment_Type,Positions_Requested,Request_Submitted_Date,HR_Case_Created_Date,Case_Status
+RC-0001,Mobility Services,Transit Programs,HM-030201,15,Engineering,Replacement,1,3/1/2025,3/5/2025,Closed-Hired
+RC-0002,Infrastructure Delivery,Construction Management,HM-020202,11,Project Management,Multiple vacancies,2,10/19/2024,10/23/2024,Closed - Hired
+RC-0003,Administration & Finance,Talent & Operations,HM-010103,15,Project Management,Multiple vacancies,2,3/21/2026,3/26/2026,Closed-Hired
+RC-0004,Mobility Services,Transit Programs,HM-030202,15,Engineering,New position,1,9/15/2024,9/16/2024,Closed - Hired
+RC-0005,Administration & Finance,Procurement Services,HM-010304,13,Data & Technology,New position,1,5/5/2024,5/8/2024,Closed - Hired
+RC-0006,Infrastructure Delivery,Capital Projects,HM-020101,13,Business Administration,New position,1,3/11/2024,3/14/2024,Closed-Hired
+RC-0007,Infrastructure Delivery,Asset Programs,HM-020305,11,Policy & Planning,Replacement,1,3/8/2025,3/10/2025,Closed - Hired
+RC-0008,Mobility Services,Traffic Operations,HM-030101,14,Business Administration,New position,1,7/14/2025,7/17/2025,Closed-Hired
+RC-0009,Infrastructure Delivery,Construction Management,HM-020202,15,Operations,Replacement,1,8/26/2024,8/29/2024,Closed - Hired
+RC-0010,Infrastructure Delivery,Asset Programs,HM-020301,14,Operations,Replacement,1,7/8/2025,7/11/2025,Closed - Hired
+RC-0011,Infrastructure Delivery,Capital Projects,HM-020103,11,Operations,Replacement,1,3/10/2024,3/12/2024,Closed-Hired
+RC-0012,Infrastructure Delivery,Asset Programs,HM-020305,13,Business Administration,Replacement,1,11/21/2024,11/23/2024,Hired
+RC-0013,Infrastructure Delivery,Construction Management,HM-020205,12,Project Management,New position,1,7/30/2025,7/31/2025,Hired
+RC-0014,Infrastructure Delivery,Asset Programs,HM-020303,13,Business Administration,New position,1,9/22/2024,9/27/2024,Closed-Hired
+RC-0015,Mobility Services,Safety & Signals,HM-030302,14,Business Administration,Replacement,1,8/10/2026,8/15/2026,active - posted
+RC-0016,Mobility Services,Transit Programs,HM-030203,11,Operations,Replacement,1,4/24/2025,4/26/2025,Closed - Hired
+RC-0017,Planning & Innovation,Policy & Planning,HM-040105,9,Policy & Planning,Replacement,1,7/22/2026,7/23/2026,In Progress
+RC-0018,Administration & Finance,Talent & Operations,HM-010105,11,Business Administration,Replacement,1,12/21/2024,12/22/2024,Hired
+RC-0019,Mobility Services,Traffic Operations,HM-030102,9,Data & Technology,Multiple vacancies,3,2/12/2025,2/13/2025,Hired
+RC-0020,Administration & Finance,Talent & Operations,HM-010103,12,Operations,Replacement,1,12/8/2024,12/11/2024,Hired
+RC-0021,Infrastructure Delivery,Capital Projects,HM-020102,11,Project Management,Replacement,1,5/22/2025,5/23/2025,Hired
+RC-0022,Mobility Services,Transit Programs,HM-030205,11,Operations,Replacement,1,9/20/2026,9/23/2026,Active - Posted
+RC-0023,Infrastructure Delivery,Construction Management,HM-020204,13,Engineering,Replacement,1,7/18/2024,7/23/2024,Closed-Hired
+RC-0024,Administration & Finance,Talent & Operations,HM-010101,13,Data & Technology,Replacement,1,10/23/2025,10/27/2025,Cancelled
+RC-0025,Planning & Innovation,Community Programs,HM-040303,11,Operations,Multiple vacancies,2,6/16/2025,6/18/2025,Hired
+RC-0026,Planning & Innovation,Policy & Planning,HM-040101,11,Business Administration,Replacement,1,8/30/2024,9/1/2024,Hired
+RC-0027,Infrastructure Delivery,Asset Programs,HM-020304,13,Project Management,Replacement,1,10/15/2024,10/19/2024,Hired
+RC-0028,Infrastructure Delivery,Asset Programs,HM-020302,9,Operations,Replacement,1,8/30/2025,9/4/2025,Hired
+RC-0029,Administration & Finance,Talent & Operations,HM-010101,13,Business Administration,Replacement,1,7/28/2026,7/31/2026,In Progress
+RC-0030,Planning & Innovation,Policy & Planning,HM-040103,11,Data & Technology,Replacement,1,2/22/2026,2/27/2026,Closed-Hired
+RC-0031,Infrastructure Delivery,Asset Programs,HM-020302,13,Data & Technology,Replacement,1,9/30/2024,10/5/2024,Closed-Hired
+RC-0032,Administration & Finance,Talent & Operations,HM-010105,11,Project Management,Replacement,1,10/7/2024,10/10/2024,Closed-Hired
+RC-0033,Planning & Innovation,Data & Analytics,HM-040203,14,Project Management,Replacement,1,8/5/2025,8/8/2025,Hired
+RC-0034,Mobility Services,Traffic Operations,HM-030103,14,Data & Technology,Replacement,1,6/12/2025,6/16/2025,Cancelled
+RC-0035,Infrastructure Delivery,Capital Projects ,HM-020104,12,Operations,Replacement,1,8/15/2025,8/16/2025,Closed - Hired
+RC-0036,Mobility Services,Safety & Signals,HM-030305,14,Operations,Replacement,1,6/9/2024,6/12/2024,Closed-Hired
+RC-0037,Planning & Innovation,Data & Analytics,HM-040203,13,Project Management,Multiple vacancies,2,4/17/2024,4/18/2024,Cancelled
+RC-0038,Infrastructure Delivery,Capital Projects,HM-020102,12,Project Management,Replacement,1,6/29/2026,7/2/2026,Closed-Hired
+RC-0039,Infrastructure Delivery,Asset Programs,HM-020304,14,Engineering,Replacement,1,4/9/2025,4/13/2025,Hired
+RC-0040,Infrastructure Delivery,Asset Programs,HM-020305,14,Engineering,Replacement,1,4/27/2026,5/1/2026,Closed-Hired
+RC-0041,Administration & Finance,Talent & Operations,HM-010104,13,Operations,Replacement,1,5/20/2024,5/22/2024,Closed - Hired
+RC-0042,Planning & Innovation,Policy & Planning,HM-040103,11,Policy & Planning,New position,1,2/4/2024,2/5/2024,Closed - Hired
+RC-0043,Mobility Services,Transit Programs ,HM-030203,15,Project Management,Replacement,1,5/10/2025,5/15/2025,Closed-Hired
+RC-0044,Planning & Innovation,Community Programs,HM-040302,11,Data & Technology,Multiple vacancies,2,5/14/2025,5/17/2025,Closed - Hired
+RC-0045,Mobility Services,Safety & Signals,HM-030302,11,Engineering,Replacement,1,3/15/2024,3/16/2024,Closed-Hired
+RC-0046,Administration & Finance,Talent & Operations,HM-010105,12,Policy & Planning,Replacement,1,8/13/2025,8/15/2025,Closed - Hired
+RC-0047,Mobility Services,Safety & Signals,HM-030304,14,Engineering,Replacement,1,11/13/2024,11/18/2024,Closed-Hired
+RC-0048,Administration & Finance,Talent & Operations,HM-010101,11,Data & Technology,Replacement,1,11/16/2025,11/20/2025,Closed - Hired
+RC-0049,Mobility Services,Transit Programs,HM-030205,12,Project Management,Replacement,1,7/26/2025,7/27/2025,Closed-Hired
+RC-0050,Infrastructure Delivery,Asset Programs,HM-020303,9,Project Management,New position,1,10/19/2026,10/23/2026,Active - Pre-posting
+RC-0051,Planning & Innovation,Data & Analytics,HM-040205,12,Project Management,New position,1,6/13/2024,6/15/2024,Closed - Hired
+RC-0052,Administration & Finance,Procurement Services,HM-010302,12,Engineering,New position,1,10/23/2024,10/25/2024,Hired
+RC-0053,Planning & Innovation,Community Programs,HM-040302,14,Engineering,Multiple vacancies,2,4/27/2026,4/28/2026,Closed - Hired
+RC-0054,Infrastructure Delivery,Construction Management,HM-020204,11,Operations,New position,1,8/3/2025,8/8/2025,Closed-Hired
+RC-0055,Administration & Finance,Procurement Services,HM-010301,14,Policy & Planning,New position,1,1/24/2025,1/28/2025,Closed-Hired
+RC-0056,Administration & Finance,Talent & Operations,HM-010103,13,Data & Technology,Replacement,1,3/26/2024,3/28/2024,Hired
+RC-0057,Mobility Services,Transit Programs,HM-030201,12,Policy & Planning,Replacement,1,4/2/2024,4/3/2024,Closed - Hired
+RC-0058,Infrastructure Delivery,Construction Management,HM-020202,12,Data & Technology,New position,1,8/25/2026,8/28/2026,Active - Posted
+RC-0059,Planning & Innovation,Data & Analytics,HM-040201,11,Operations,Replacement,1,7/19/2026,7/22/2026,In Progress
+RC-0060,Administration & Finance,Budget & Grants,HM-010202,9,Project Management,Replacement,1,1/2/2025,1/5/2025,Cancelled
+RC-0061,Planning & Innovation,Community Programs,HM-040304,12,Business Administration,Replacement,1,5/27/2025,5/31/2025,Closed-Hired
+RC-0062,Planning & Innovation,Policy & Planning,HM-040102,11,Data & Technology,Multiple vacancies,2,5/12/2025,5/17/2025,Closed - Hired
+RC-0063,Administration & Finance,Budget & Grants,HM-010203,14,Data & Technology,Replacement,1,8/11/2026,8/15/2026,In Progress
+RC-0064,Administration & Finance,Budget & Grants,HM-010205,12,Operations,Replacement,1,1/15/2025,1/20/2025,Closed-Hired
+RC-0065,Infrastructure Delivery,Construction Management,HM-020203,12,Data & Technology,Replacement,1,8/13/2025,8/15/2025,Closed - Hired
+RC-0066,Planning & Innovation,Data & Analytics,HM-040205,13,Operations,Replacement,1,10/12/2024,10/17/2024,Closed - Hired
+RC-0067,Administration & Finance,Procurement Services,HM-010303,14,Project Management,Replacement,1,9/16/2025,9/21/2025,Hired
+RC-0068,Mobility Services,Safety & Signals,HM-030302,12,Policy & Planning,New position,1,3/26/2026,3/31/2026,Closed - Hired
+RC-0069,Infrastructure Delivery,Construction Management,HM-020204,11,Data & Technology,Replacement,1,12/31/2025,1/3/2026,Hired
+RC-0070,Mobility Services,Traffic Operations,HM-030101,14,Data & Technology,Replacement,1,2/25/2025,2/26/2025,Closed-Hired
+RC-0071,Administration & Finance,Budget & Grants,HM-010202,12,Engineering,Replacement,1,7/31/2024,8/4/2024,Hired
+RC-0072,Administration & Finance,Talent & Operations,HM-010103,15,Business Administration,New position,1,12/1/2024,12/4/2024,Closed - Hired
+RC-0073,Infrastructure Delivery,Construction Management,HM-020203,11,Business Administration,Replacement,1,1/26/2026,1/31/2026,Hired
+RC-0074,Planning & Innovation,Policy & Planning,HM-040105,13,Policy & Planning,Replacement,1,6/2/2026,6/4/2026,Closed-Hired
+RC-0075,Administration & Finance,Talent & Operations,HM-010105,12,Policy & Planning,Replacement,1,3/3/2025,3/4/2025,Closed - Hired
+RC-0076,Infrastructure Delivery,Construction Management,HM-020202,12,Business Administration,Replacement,1,2/14/2026,2/18/2026,Hired
+RC-0077,Planning & Innovation,Community Programs,HM-040302,12,Policy & Planning,Replacement,1,1/4/2026,1/6/2026,Closed-Hired
+RC-0078,Mobility Services,Traffic Operations,HM-030103,9,Policy & Planning,Replacement,1,3/12/2026,3/16/2026,Closed - Hired
+RC-0079,Mobility Services,Transit Programs,HM-030202,12,Project Management,Replacement,1,3/27/2024,3/28/2024,Closed - Hired
+RC-0080,Mobility Services,Traffic Operations,HM-030101,11,Business Administration,Replacement,1,8/22/2026,8/23/2026,Active - Posted
+RC-0081,Mobility Services,Traffic Operations,HM-030105,13,Data & Technology,Replacement,1,9/3/2025,9/5/2025,Closed - Hired
+RC-0082,Administration & Finance,Procurement Services,HM-010301,13,Project Management,New position,1,3/16/2024,3/17/2024,Closed - Hired
+RC-0083,Mobility Services,Traffic Operations,HM-030105,9,Operations,Replacement,1,7/7/2025,7/9/2025,Hired
+RC-0084,Administration & Finance,Budget & Grants,HM-010205,11,Data & Technology,Replacement,1,10/16/2024,10/18/2024,Closed-Hired
+RC-0085,Planning & Innovation,Data & Analytics,HM-040205,14,Operations,Replacement,1,5/30/2025,6/2/2025,Hired
+RC-0086,Mobility Services,Traffic Operations,HM-030103,14,Policy & Planning,Replacement,1,1/2/2025,1/3/2025,Hired
+RC-0087,Mobility Services,Safety & Signals,HM-030301,12,Business Administration,Replacement,1,2/17/2025,2/19/2025,Closed-Hired
+RC-0088,Planning & Innovation,Policy & Planning ,HM-040105,12,Data & Technology,Replacement,1,2/17/2026,2/19/2026,Closed - Hired
+RC-0089,Infrastructure Delivery,Asset Programs,HM-020303,13,Project Management,Replacement,1,6/21/2024,6/24/2024,Closed - Hired
+RC-0090,Planning & Innovation,Community Programs ,HM-040305,11,Policy & Planning,Multiple vacancies,3,5/29/2024,5/30/2024,Hired
+RC-0091,Planning & Innovation,Data & Analytics,HM-040203,9,Project Management,Multiple vacancies,2,10/10/2025,10/14/2025,Hired
+RC-0092,Mobility Services,Traffic Operations,HM-030103,12,Business Administration,Replacement,1,10/16/2024,10/20/2024,Closed-Hired
+RC-0093,Administration & Finance,Talent & Operations,HM-010103,12,Engineering,Replacement,1,7/10/2026,7/14/2026,Hired
+RC-0094,Mobility Services,Safety & Signals,HM-030303,13,Business Administration,Replacement,1,2/13/2025,2/16/2025,Closed-Hired
+RC-0095,Planning & Innovation,Community Programs,HM-040303,9,Operations,Replacement,1,11/8/2025,11/13/2025,Hired
+RC-0096,Infrastructure Delivery,Asset Programs,HM-020303,14,Project Management,Replacement,1,7/16/2025,7/20/2025,Closed-Hired
+RC-0097,Administration & Finance,Talent & Operations,HM-010103,11,Policy & Planning,Multiple vacancies,2,1/20/2025,1/23/2025,Closed - Hired
+RC-0098,Mobility Services,Transit Programs,HM-030204,14,Project Management,Replacement,1,8/20/2026,8/23/2026,In Progress
+RC-0099,Planning & Innovation,Policy & Planning ,HM-040103,13,Operations,Replacement,1,9/7/2026,9/12/2026,Active - Posted
+RC-0100,Planning & Innovation,Data & Analytics,HM-040201,13,Policy & Planning,Replacement,1,5/13/2024,5/16/2024,Closed-Hired
+RC-0101,Planning & Innovation,Data & Analytics,HM-040202,9,Project Management,Multiple vacancies,2,3/29/2026,4/2/2026,Closed - Hired
+RC-0102,Planning & Innovation,Data & Analytics,HM-040201,14,Data & Technology,Replacement,1,6/2/2026,6/6/2026,Closed-Hired
+RC-0103,Infrastructure Delivery,Construction Management ,HM-020204,13,Operations,Replacement,1,10/12/2026,10/17/2026,Active - Posted
+RC-0104,Planning & Innovation,Data & Analytics,HM-040201,14,Policy & Planning,Replacement,1,8/10/2026,8/13/2026,Active - Posted
+RC-0105,Infrastructure Delivery,Construction Management,HM-020201,9,Operations,New position,1,6/22/2026,6/27/2026,Hired
+RC-0106,Mobility Services,Transit Programs,HM-030205,13,Engineering,Replacement,1,5/2/2024,5/5/2024,Hired
+RC-0107,Planning & Innovation,Data & Analytics,HM-040201,14,Business Administration,Replacement,1,2/2/2026,2/4/2026,Closed - Hired
+RC-0108,Infrastructure Delivery,Construction Management,HM-020203,13,Business Administration,New position,1,7/19/2025,7/23/2025,Closed-Hired
+RC-0109,Planning & Innovation,Policy & Planning,HM-040104,13,Policy & Planning,New position,1,1/30/2025,2/2/2025,Closed-Hired
+RC-0110,Planning & Innovation,Data & Analytics,HM-040201,11,Engineering,Replacement,1,2/26/2026,2/27/2026,Hired
+RC-0111,Infrastructure Delivery,Capital Projects,HM-020102,15,Project Management,Replacement,1,7/1/2025,7/6/2025,Hired
+RC-0112,Mobility Services,Traffic Operations,HM-030101,11,Policy & Planning,New position,1,4/23/2025,4/25/2025,Hired
+RC-0113,Administration & Finance,Procurement Services,HM-010304,13,Operations,Replacement,1,7/31/2025,8/4/2025,Closed - Hired
+RC-0114,Mobility Services,Transit Programs,HM-030201,12,Business Administration,Replacement,1,1/1/2025,1/6/2025,Closed-Hired
+RC-0115,Infrastructure Delivery,Asset Programs,HM-020301,12,Business Administration,Replacement,1,5/15/2024,5/20/2024,Closed-Hired
+RC-0116,Infrastructure Delivery,Capital Projects ,HM-020102,12,Project Management,Replacement,1,4/23/2025,4/25/2025,Closed - Hired
+RC-0117,Mobility Services,Transit Programs,HM-030204,12,Operations,Multiple vacancies,2,7/3/2024,7/5/2024,Hired
+RC-0118,Infrastructure Delivery,Construction Management,HM-020201,12,Business Administration,Multiple vacancies,2,7/26/2024,7/27/2024,Closed-Hired
+RC-0119,Administration & Finance,Procurement Services,HM-010302,13,Business Administration,Multiple vacancies,2,8/10/2024,8/13/2024,Closed - Hired
+RC-0120,Administration & Finance,Procurement Services,HM-010303,12,Policy & Planning,New position,1,8/7/2026,8/12/2026,In Progress
+RC-0121,Planning & Innovation,Community Programs,HM-040302,11,Operations,Replacement,1,3/29/2025,4/2/2025,Closed-Hired
+RC-0122,Planning & Innovation,Policy & Planning,HM-040104,15,Project Management,Replacement,1,8/21/2025,8/26/2025,Closed-Hired
+RC-0123,Mobility Services,Transit Programs,HM-030204,13,Operations,Replacement,1,10/15/2024,10/17/2024,Closed-Hired
+RC-0124,Planning & Innovation,Policy & Planning,HM-040105,12,Project Management,Replacement,1,3/10/2025,3/11/2025,Hired
+RC-0125,Planning & Innovation,Policy & Planning,HM-040101,13,Project Management,Replacement,1,5/1/2025,5/5/2025,Closed - Hired
+RC-0126,Infrastructure Delivery,Asset Programs,HM-020303,14,Operations,Replacement,1,11/9/2025,11/10/2025,Closed-Hired
+RC-0127,Mobility Services,Traffic Operations,HM-030104,11,Policy & Planning,Replacement,1,3/7/2025,3/9/2025,Hired
+RC-0128,Mobility Services,Traffic Operations,HM-030103,14,Operations,New position,1,7/1/2025,7/5/2025,Closed-Hired
+RC-0129,Infrastructure Delivery,Capital Projects,HM-020102,14,Operations,Replacement,1,10/20/2024,10/24/2024,Closed - Hired
+RC-0130,Infrastructure Delivery,Capital Projects,HM-020102,13,Data & Technology,Multiple vacancies,2,10/16/2025,10/19/2025,Hired
+RC-0131,Administration & Finance,Talent & Operations,HM-010101,14,Data & Technology,Replacement,1,2/16/2025,2/17/2025,Cancelled
+RC-0132,Administration & Finance,Budget & Grants,HM-010203,12,Business Administration,Replacement,1,11/29/2025,12/1/2025,Closed - Hired
+RC-0133,Mobility Services,Safety & Signals,HM-030301,11,Business Administration,Replacement,1,10/13/2025,10/14/2025,Closed-Hired
+RC-0134,Mobility Services,Safety & Signals,HM-030303,12,Project Management,Multiple vacancies,2,1/11/2026,1/14/2026,Hired
+RC-0135,Administration & Finance,Budget & Grants,HM-010203,13,Business Administration,New position,1,3/31/2024,4/4/2024,Hired
+RC-0136,Administration & Finance,Procurement Services,HM-010301,12,Engineering,Replacement,1,8/13/2025,8/15/2025,Hired
+RC-0137,Mobility Services,Safety & Signals,HM-030303,13,Business Administration,Multiple vacancies,3,9/3/2024,9/7/2024,Closed - Hired
+RC-0138,Administration & Finance,Talent & Operations,HM-010105,12,Data & Technology,Replacement,1,3/30/2024,3/31/2024,Hired
+RC-0139,Infrastructure Delivery,Asset Programs,HM-020305,15,Policy & Planning,Replacement,1,1/5/2026,1/9/2026,Hired
+RC-0140,Administration & Finance,Procurement Services,HM-010303,12,Operations,Multiple vacancies,2,3/15/2024,3/18/2024,Closed-Hired
+RC-0141,Administration & Finance,Procurement Services,HM-010305,14,Data & Technology,Replacement,1,1/24/2025,1/28/2025,Hired
+RC-0142,Planning & Innovation,Data & Analytics,HM-040201,14,Engineering,Replacement,1,6/8/2026,6/12/2026,Closed-Hired
+RC-0143,Infrastructure Delivery,Construction Management,HM-020201,12,Project Management,Replacement,1,9/24/2024,9/25/2024,Closed - Hired
+RC-0144,Administration & Finance,Budget & Grants ,HM-010203,11,Engineering,Multiple vacancies,2,2/4/2026,2/5/2026,Hired
+RC-0145,Administration & Finance,Budget & Grants,HM-010203,11,Business Administration,Replacement,1,8/19/2026,8/24/2026,Active - Posted
+RC-0146,Planning & Innovation,Community Programs,HM-040301,12,Operations,Replacement,1,3/16/2026,3/18/2026,Cancelled
+RC-0147,Mobility Services,Transit Programs,HM-030204,12,Data & Technology,New position,1,4/27/2024,4/29/2024,Cancelled
+RC-0148,Administration & Finance,Talent & Operations,HM-010105,11,Project Management,Multiple vacancies,2,5/24/2025,5/28/2025,Closed-Hired
+RC-0149,Infrastructure Delivery,Asset Programs ,HM-020304,11,Business Administration,Multiple vacancies,2,5/6/2025,5/8/2025,Closed - Hired
+RC-0150,Infrastructure Delivery,Construction Management,HM-020203,11,Business Administration,Replacement,1,11/7/2025,11/12/2025,Closed-Hired
+RC-0151,Infrastructure Delivery,Asset Programs,HM-020303,13,Operations,Multiple vacancies,2,3/16/2024,3/19/2024,Closed-Hired
+RC-0152,Administration & Finance,Procurement Services,HM-010304,12,Policy & Planning,Replacement,1,10/1/2026,10/2/2026,In Progress
+RC-0153,Planning & Innovation,Policy & Planning,HM-040103,13,Engineering,Replacement,1,4/23/2026,4/24/2026,Closed - Hired
+RC-0154,Mobility Services,Traffic Operations,HM-030104,13,Engineering,Replacement,1,2/7/2025,2/8/2025,Closed-Hired
+RC-0155,Infrastructure Delivery,Asset Programs,HM-020302,12,Engineering,Replacement,1,12/3/2025,12/5/2025,Closed-Hired
+RC-0156,Infrastructure Delivery,Asset Programs,HM-020302,12,Project Management,Replacement,1,3/12/2026,3/14/2026,Closed-Hired
+RC-0157,Mobility Services,Safety & Signals,HM-030303,12,Business Administration,New position,1,3/7/2025,3/8/2025,Hired
+RC-0158,Mobility Services,Traffic Operations,HM-030103,12,Policy & Planning,Multiple vacancies,3,10/12/2026,10/15/2026,Active - Pre-posting
+RC-0159,Mobility Services,Traffic Operations,HM-030105,12,Business Administration,Multiple vacancies,2,11/1/2024,11/4/2024,Closed - Hired
+RC-0160,Administration & Finance,Talent & Operations,HM-010104,13,Operations,New position,1,1/18/2026,1/23/2026,Closed - Hired
+RC-0161,Mobility Services,Transit Programs,HM-030203,11,Project Management,Replacement,1,5/26/2024,5/27/2024,Closed-Hired
+RC-0162,Infrastructure Delivery,Asset Programs,HM-020304,12,Policy & Planning,New position,1,8/17/2025,8/19/2025,Closed - Hired
+RC-0163,Infrastructure Delivery,Construction Management,HM-020201,13,Operations,Replacement,1,11/13/2024,11/16/2024,Hired
+RC-0164,Planning & Innovation,Data & Analytics,HM-040201,12,Policy & Planning,Multiple vacancies,2,9/26/2026,9/29/2026,In Progress
+RC-0165,Infrastructure Delivery,Capital Projects,HM-020103,15,Engineering,Replacement,1,5/13/2026,5/17/2026,Cancelled
+RC-0166,Mobility Services,Safety & Signals,HM-030305,12,Engineering,Multiple vacancies,3,3/30/2026,4/2/2026,Hired
+RC-0167,Administration & Finance,Talent & Operations,HM-010101,14,Project Management,New position,1,3/31/2024,4/3/2024,Closed-Hired
+RC-0168,Administration & Finance,Budget & Grants,HM-010202,9,Engineering,New position,1,6/23/2024,6/25/2024,Hired
+RC-0169,Infrastructure Delivery,Capital Projects,HM-020103,13,Policy & Planning,Replacement,1,3/3/2024,3/7/2024,Closed-Hired
+RC-0170,Infrastructure Delivery,Capital Projects,HM-020103,14,Policy & Planning,Replacement,1,4/11/2026,4/13/2026,Hired
+RC-0171,Planning & Innovation,Community Programs,HM-040301,12,Data & Technology,Replacement,1,8/6/2024,8/10/2024,Closed-Hired
+RC-0172,Mobility Services,Safety & Signals,HM-030303,13,Operations,Replacement,1,7/8/2026,7/9/2026,Hired
+RC-0173,Infrastructure Delivery,Asset Programs,HM-020302,13,Project Management,Replacement,1,6/25/2024,6/27/2024,Hired
+RC-0174,Mobility Services,Safety & Signals,HM-030301,9,Policy & Planning,Replacement,1,1/10/2026,1/13/2026,Closed - Hired
+RC-0175,Administration & Finance,Budget & Grants,HM-010202,13,Project Management,Replacement,1,10/5/2024,10/10/2024,Closed - Hired
+RC-0176,Infrastructure Delivery,Construction Management ,HM-020203,14,Policy & Planning,Multiple vacancies,2,3/23/2025,3/25/2025,Closed - Hired
+RC-0177,Mobility Services,Transit Programs,HM-030205,14,Operations,Replacement,1,5/3/2026,5/7/2026,Closed - Hired
+RC-0178,Administration & Finance,Talent and Operations,HM-010102,14,Data & Technology,New position,1,6/12/2025,6/17/2025,Cancelled
+RC-0179,Infrastructure Delivery,Construction Management,HM-020202,9,Engineering,Multiple vacancies,3,1/31/2026,2/3/2026,Closed-Hired
+RC-0180,Infrastructure Delivery,Asset Programs,HM-020305,15,Policy & Planning,Multiple vacancies,3,11/23/2025,11/25/2025,Closed - Hired
+RC-0181,Mobility Services,Safety & Signals,HM-030302,13,Project Management,Replacement,1,11/9/2024,11/14/2024,Hired
+RC-0182,Administration & Finance,Procurement Services,HM-010302,11,Engineering,New position,1,7/5/2025,7/9/2025,Closed - Hired
+RC-0183,Mobility Services,Safety & Signals,HM-030302,12,Operations,Replacement,1,9/9/2026,9/13/2026,Active - Posted
+RC-0184,Planning & Innovation,Policy & Planning,HM-040101,9,Business Administration,Replacement,1,7/17/2025,7/20/2025,Closed - Hired
+RC-0185,Infrastructure Delivery,Construction Management ,HM-020201,12,Engineering,New position,1,11/27/2024,11/30/2024,Closed - Hired
+RC-0186,Planning & Innovation,Policy & Planning,HM-040105,14,Engineering,Replacement,1,10/7/2025,10/11/2025,Hired
+RC-0187,Mobility Services,Safety & Signals,HM-030302,13,Data & Technology,New position,1,10/5/2026,10/10/2026,Active - Pre-posting
+RC-0188,Planning & Innovation,Community Programs,HM-040301,12,Engineering,New position,1,7/28/2026,7/30/2026,In Progress
+RC-0189,Infrastructure Delivery,Construction Management,HM-020204,13,Business Administration,Replacement,1,7/1/2024,7/6/2024,Closed - Hired
+RC-0190,Administration & Finance,Procurement Services,HM-010302,12,Policy & Planning,Replacement,1,5/4/2026,5/8/2026,Closed-Hired
+RC-0191,Planning & Innovation,Data & Analytics,HM-040202,13,Business Administration,Replacement,1,2/3/2025,2/8/2025,Closed-Hired
+RC-0192,Planning & Innovation,Community Programs,HM-040305,13,Project Management,Replacement,1,8/2/2024,8/6/2024,Closed - Hired
+RC-0193,Administration & Finance,Procurement Services,HM-010303,11,Policy & Planning,New position,1,5/23/2024,5/24/2024,Hired
+RC-0194,Planning & Innovation,Data & Analytics,HM-040203,12,Project Management,New position,1,3/11/2025,3/14/2025,Closed - Hired
+RC-0195,Administration & Finance,Talent & Operations,HM-010103,12,Operations,Replacement,1,4/6/2024,4/7/2024,Closed - Hired
+RC-0196,Administration & Finance,Talent & Operations,HM-010105,13,Business Administration,Replacement,1,2/12/2026,2/13/2026,Hired
+RC-0197,Planning & Innovation,Policy & Planning,HM-040104,13,Operations,New position,1,9/1/2025,9/4/2025,Hired
+RC-0198,Mobility Services,Transit Programs,HM-030201,9,Engineering,New position,1,3/16/2026,3/17/2026,Closed - Hired
+RC-0199,Mobility Services,Safety & Signals,HM-030301,11,Operations,Replacement,1,8/10/2024,8/12/2024,Closed - Hired
+RC-0200,Administration & Finance,Budget & Grants,HM-010202,11,Project Management,New position,1,6/30/2024,7/2/2024,Cancelled
+RC-0201,Planning & Innovation,Data & Analytics ,HM-040202,12,Business Administration,New position,1,2/7/2026,2/11/2026,Closed - Hired
+RC-0202,Infrastructure Delivery,Asset Programs,HM-020301,12,Business Administration,New position,1,5/8/2026,5/9/2026,Closed - Hired
+RC-0203,Planning & Innovation,Policy & Planning,HM-040103,9,Project Management,Replacement,1,6/13/2024,6/18/2024,Hired
+RC-0204,Mobility Services,Safety & Signals,HM-030305,15,Data & Technology,Replacement,1,4/2/2025,4/7/2025,Closed - Hired
+RC-0205,Mobility Services,Traffic Operations,HM-030102,12,Engineering,New position,1,2/13/2024,2/18/2024,Closed - Hired
+RC-0206,Infrastructure Delivery,Capital Projects,HM-020104,11,Project Management,Replacement,1,10/22/2026,10/23/2026,Active - Pre-posting
+RC-0207,Planning & Innovation,Community Programs,HM-040303,9,Business Administration,Replacement,1,8/6/2024,8/10/2024,Closed-Hired
+RC-0208,Administration & Finance,Procurement Services,HM-010305,11,Data & Technology,Replacement,1,1/20/2025,1/23/2025,Closed - Hired
+RC-0209,Infrastructure Delivery,Asset Programs,HM-020303,11,Business Administration,Multiple vacancies,3,3/29/2026,3/30/2026,Closed-Hired
+RC-0210,Planning & Innovation,Community Programs,HM-040301,12,Business Administration,Replacement,1,5/9/2025,5/12/2025,Closed-Hired
+RC-0211,Planning & Innovation,Data & Analytics ,HM-040203,14,Engineering,New position,1,6/13/2025,6/16/2025,Closed-Hired
+RC-0212,Administration & Finance,Budget & Grants,HM-010201,11,Business Administration,New position,1,5/17/2024,5/20/2024,Cancelled
+RC-0213,Planning & Innovation,Policy & Planning,HM-040103,9,Engineering,New position,1,10/9/2026,10/10/2026,active - posted
+RC-0214,Administration & Finance,Talent & Operations,HM-010105,11,Project Management,Multiple vacancies,2,5/29/2025,6/2/2025,Hired
+RC-0215,Planning & Innovation,Policy & Planning,HM-040104,12,Engineering,New position,1,2/1/2024,2/4/2024,Hired
+RC-0216,Infrastructure Delivery,Asset Programs,HM-020304,14,Operations,Replacement,1,3/19/2026,3/21/2026,Closed-Hired
+RC-0217,Infrastructure Delivery,Asset Programs ,HM-020305,13,Policy & Planning,Replacement,1,6/7/2025,6/9/2025,Hired
+RC-0218,Mobility Services,Transit Programs,HM-030202,11,Policy & Planning,Multiple vacancies,3,10/2/2024,10/4/2024,Closed-Hired
+RC-0219,Infrastructure Delivery,Asset Programs,HM-020302,11,Operations,Multiple vacancies,2,11/19/2024,11/23/2024,Closed - Hired
+RC-0220,Infrastructure Delivery,Capital Projects,HM-020103,11,Business Administration,Replacement,1,5/1/2024,5/5/2024,Hired
+RC-0221,Infrastructure Delivery,Capital Projects,HM-020102,12,Project Management,Replacement,1,12/17/2024,12/20/2024,Hired
+RC-0222,Planning & Innovation,Community Programs,HM-040305,9,Operations,Replacement,1,6/21/2024,6/22/2024,Closed - Hired
+RC-0223,Administration & Finance,Budget & Grants,HM-010201,13,Engineering,Replacement,1,8/22/2025,8/23/2025,Closed - Hired
+RC-0224,Mobility Services,Traffic Operations,HM-030102,13,Policy & Planning,Replacement,1,6/6/2026,6/9/2026,Closed-Hired
+RC-0225,Infrastructure Delivery,Construction Management,HM-020205,12,Business Administration,Replacement,1,1/3/2025,1/8/2025,Closed-Hired
+RC-0226,Infrastructure Delivery,Construction Management,HM-020203,11,Operations,Replacement,1,1/6/2025,1/11/2025,Closed-Hired
+RC-0227,Mobility Services,Transit Programs,HM-030201,14,Operations,Multiple vacancies,2,6/25/2025,6/26/2025,Cancelled
+RC-0228,Infrastructure Delivery,Capital Projects ,HM-020102,14,Business Administration,Multiple vacancies,2,8/23/2026,8/25/2026,active - posted
+RC-0229,Planning & Innovation,Policy & Planning,HM-040104,11,Policy & Planning,Replacement,1,3/8/2026,3/13/2026,Hired
+RC-0230,Mobility Services,Transit Programs,HM-030201,14,Engineering,Replacement,1,3/6/2025,3/8/2025,Closed - Hired
+RC-0231,Planning & Innovation,Data & Analytics,HM-040203,14,Policy & Planning,Replacement,1,6/5/2025,6/8/2025,Hired
+RC-0232,Administration & Finance,Budget & Grants,HM-010203,12,Engineering,Multiple vacancies,2,5/17/2026,5/19/2026,Hired
+RC-0233,Infrastructure Delivery,Asset Programs,HM-020303,12,Data & Technology,Replacement,1,12/14/2024,12/17/2024,Cancelled
+RC-0234,Infrastructure Delivery,Capital Projects,HM-020103,13,Project Management,Replacement,1,5/24/2024,5/28/2024,Closed - Hired
+RC-0235,Planning & Innovation,Policy & Planning,HM-040101,14,Operations,Replacement,1,1/1/2026,1/5/2026,Hired
+RC-0236,Infrastructure Delivery,Asset Programs,HM-020305,14,Policy & Planning,New position,1,11/30/2024,12/2/2024,Closed - Hired
+RC-0237,Planning & Innovation,Data & Analytics,HM-040202,12,Data & Technology,Replacement,1,6/16/2025,6/20/2025,Closed-Hired
+RC-0238,Infrastructure Delivery,Capital Projects,HM-020102,12,Project Management,Replacement,1,7/18/2026,7/21/2026,active - posted
+RC-0239,Infrastructure Delivery,Capital Projects,HM-020102,14,Policy & Planning,Replacement,1,7/13/2024,7/15/2024,Closed - Hired
+RC-0240,Mobility Services,Transit Programs,HM-030204,15,Data & Technology,Replacement,1,8/13/2026,8/16/2026,active - posted
+RC-0241,Infrastructure Delivery,Construction Management,HM-020205,14,Business Administration,Multiple vacancies,2,9/17/2026,9/18/2026,Active - Posted
+RC-0242,Planning & Innovation,Community Programs ,HM-040301,12,Data & Technology,Replacement,1,6/28/2026,6/29/2026,Active - Posted
+RC-0243,Infrastructure Delivery,Capital Projects,HM-020103,11,Business Administration,Replacement,1,6/5/2024,6/10/2024,Closed - Hired
+RC-0244,Infrastructure Delivery,Asset Programs,HM-020302,11,Business Administration,Replacement,1,3/14/2025,3/16/2025,Closed-Hired
+RC-0245,Infrastructure Delivery,Construction Management,HM-020204,14,Business Administration,Multiple vacancies,2,2/27/2026,3/3/2026,Closed - Hired
+RC-0246,Mobility Services,Safety & Signals,HM-030304,12,Business Administration,New position,1,3/12/2026,3/13/2026,Closed-Hired
+RC-0247,Planning & Innovation,Data & Analytics ,HM-040205,11,Engineering,Replacement,1,4/1/2024,4/5/2024,Closed - Hired
+RC-0248,Planning & Innovation,Community Programs,HM-040304,11,Operations,Replacement,1,11/4/2024,11/9/2024,Closed-Hired
+RC-0249,Administration & Finance,Budget & Grants,HM-010202,12,Business Administration,Replacement,1,2/23/2024,2/27/2024,Closed - Hired
+RC-0250,Planning & Innovation,Data & Analytics,HM-040203,13,Engineering,Replacement,1,5/12/2024,5/17/2024,Closed-Hired
+RC-0251,Administration & Finance,Budget & Grants,HM-010201,12,Operations,Replacement,1,1/3/2025,1/6/2025,Closed-Hired
+RC-0252,Mobility Services,Traffic Operations,HM-030102,9,Business Administration,New position,1,9/26/2025,9/28/2025,Closed - Hired
+RC-0253,Mobility Services,Transit Programs,HM-030205,12,Project Management,New position,1,6/6/2025,6/10/2025,Hired
+RC-0254,Administration & Finance,Budget & Grants,HM-010202,9,Operations,New position,1,3/25/2025,3/26/2025,Closed - Hired
+RC-0255,Planning & Innovation,Policy & Planning,HM-040102,12,Operations,Replacement,1,3/2/2025,3/4/2025,Closed - Hired
+RC-0256,Mobility Services,Safety & Signals,HM-030303,9,Project Management,New position,1,9/24/2025,9/29/2025,Closed-Hired
+RC-0257,Mobility Services,Transit Programs,HM-030205,13,Engineering,Replacement,1,1/2/2025,1/6/2025,Hired
+RC-0258,Infrastructure Delivery,Capital Projects,HM-020102,12,Engineering,Replacement,1,12/21/2024,12/24/2024,Closed - Hired
+RC-0259,Planning & Innovation,Community Programs ,HM-040302,14,Operations,New position,1,9/19/2025,9/24/2025,Hired
+RC-0260,Infrastructure Delivery,Asset Programs,HM-020305,12,Business Administration,Replacement,1,6/17/2024,6/21/2024,Hired
+RC-0261,Administration & Finance,Procurement Services,HM-010301,14,Data & Technology,New position,1,5/27/2026,5/28/2026,Active - Posted
+RC-0262,Infrastructure Delivery,Capital Projects,HM-020105,12,Project Management,Replacement,1,6/1/2026,6/6/2026,In Progress
+RC-0263,Planning & Innovation,Data & Analytics,HM-040203,11,Project Management,Replacement,1,5/29/2026,5/31/2026,active - posted
+RC-0264,Infrastructure Delivery,Asset Programs,HM-020304,12,Data & Technology,Replacement,1,5/24/2026,5/25/2026,active - posted
+RC-0265,Infrastructure Delivery,Capital Projects,HM-020102,12,Project Management,Replacement,1,5/26/2026,5/31/2026,active - posted
+RC-0266,Planning & Innovation,Policy & Planning,HM-040103,13,Data & Technology,Replacement,1,6/4/2026,6/9/2026,Active - Posted
+RC-0267,Administration & Finance,Talent & Operations,HM-010104,14,Engineering,New position,1,5/31/2026,6/3/2026,Active - Posted
+RC-0268,Mobility Services,Safety & Signals,HM-030304,13,Engineering,Replacement,1,5/29/2026,6/3/2026,active - posted
+RC-0269,Administration & Finance,Talent & Operations,HM-010103,9,Project Management,Replacement,1,10/12/2024,10/17/2024,Closed - Hired
+RC-0270,Mobility Services,Transit Programs,HM-030203,13,Policy & Planning,Replacement,1,1/21/2025,1/25/2025,Hired
+RC-0271,Administration & Finance,Budget & Grants,HM-010201,12,Engineering,Multiple vacancies,2,7/12/2026,7/13/2026,Closed - Hired
+RC-0272,Planning & Innovation,Community Programs,HM-040303,9,Engineering,Multiple vacancies,2,7/23/2026,7/27/2026,Hired
+RC-0273,Mobility Services,Traffic Operations,HM-030105,15,Policy & Planning,Multiple vacancies,2,7/22/2026,7/27/2026,In Progress
+RC-0274,Mobility Services,Traffic Operations,HM-030104,11,Business Administration,Multiple vacancies,2,7/13/2026,7/17/2026,active - posted
+RC-0275,Mobility Services,Safety & Signals,HM-030302,12,Operations,Multiple vacancies,2,7/10/2026,7/14/2026,Closed - Hired
+RC-0276,Administration & Finance,Budget & Grants,HM-010205,12,Engineering,Multiple vacancies,2,7/20/2026,7/23/2026,Closed-Hired
+RC-0277,Planning & Innovation,Community Programs,HM-040301,11,Business Administration,Multiple vacancies,2,7/17/2026,7/18/2026,Hired
+RC-0278,Mobility Services,Transit Programs,HM-030201,9,Operations,Multiple vacancies,2,7/17/2026,7/20/2026,Active - Posted
+RC-0279,Administration & Finance,Procurement Services,HM-010304,15,Business Administration,Multiple vacancies,2,7/21/2026,7/25/2026,active - posted
+RC-0280,Planning & Innovation,Community Programs,HM-040303,12,Engineering,Multiple vacancies,2,7/20/2026,7/23/2026,Closed-Hired
+RC-0281,Planning & Innovation,Policy & Planning,HM-040101,11,Project Management,Replacement,1,4/28/2024,5/1/2024,Closed-Hired
+RC-0282,Administration & Finance,Budget & Grants,HM-010201,13,Business Administration,Replacement,1,10/21/2026,10/24/2026,Active - Pre-posting
+RC-0283,Infrastructure Delivery,Construction Management,HM-020205,11,Policy & Planning,Replacement,1,12/11/2024,12/15/2024,Closed-Hired
+RC-0284,Administration & Finance,Procurement Services,HM-010302,13,Business Administration,New position,1,7/26/2026,7/30/2026,Active - Posted
+RC-0285,Administration & Finance,Talent & Operations,HM-010102,12,Operations,New position,1,3/17/2025,3/20/2025,Closed - Hired
+RC-0286,Administration & Finance,Budget & Grants,HM-010205,13,Data & Technology,New position,1,10/2/2026,10/6/2026,Active - Posted
+RC-0287,Mobility Services,Safety & Signals,HM-030302,13,Engineering,Multiple vacancies,2,10/7/2026,10/11/2026,Active - Posted
+RC-0288,Mobility Services,Transit Programs,HM-030203,9,Operations,Replacement,1,10/21/2026,10/23/2026,Active - Pre-posting
+RC-0289,Infrastructure Delivery,Capital Projects,HM-020103,13,Business Administration,Replacement,1,9/25/2026,9/30/2026,In Progress
+RC-0290,Infrastructure Delivery,Asset Programs,HM-020304,11,Data & Technology,Replacement,1,9/26/2026,9/28/2026,Active - Posted
+RC-0291,Administration & Finance,Talent & Operations,HM-010104,11,Project Management,Multiple vacancies,2,10/14/2026,10/17/2026,Active - Pre-posting
+RC-0292,Administration & Finance,Talent & Operations,HM-010104,12,Engineering,New position,1,10/22/2026,10/27/2026,Active - Pre-posting
+RC-0293,Planning & Innovation,Community Programs ,HM-040304,14,Data & Technology,Replacement,1,10/15/2026,10/19/2026,Active - Pre-posting
+RC-0294,Planning & Innovation,Data & Analytics,HM-040205,12,Project Management,Multiple vacancies,2,10/20/2026,10/25/2026,Active - Pre-posting
+RC-0295,Planning & Innovation,Community Programs,HM-040302,12,Project Management,Replacement,1,9/27/2026,10/2/2026,active - posted
+RC-0296,Mobility Services,Transit Programs,HM-030201,12,Data & Technology,Replacement,1,10/25/2026,10/27/2026,Active - Pre-posting
+RC-0297,Administration & Finance,Budget & Grants,HM-010204,13,Business Administration,Replacement,1,10/11/2026,10/13/2026,Active - Posted
+RC-0298,Planning & Innovation,Community Programs,HM-040302,14,Engineering,Multiple vacancies,2,10/5/2026,10/7/2026,Active - Posted
+RC-0299,Mobility Services,Transit Programs,HM-030201,13,Engineering,New position,1,10/28/2026,,Active - Pre-posting
+RC-0300,Administration & Finance,Budget & Grants,HM-010205,12,Policy & Planning,Multiple vacancies,2,10/1/2026,10/6/2026,Active - Posted
+RC-0301,Mobility Services,Safety & Signals,HM-030302,11,Business Administration,Replacement,1,10/25/2026,10/30/2026,Active - Pre-posting
+RC-0302,Infrastructure Delivery,Asset Programs,HM-020301,15,Business Administration,New position,1,10/11/2026,10/15/2026,Active - Pre-posting
+RC-0303,Administration & Finance,Talent & Operations,HM-010105,13,Engineering,Replacement,1,10/10/2026,10/14/2026,In Progress
+RC-0304,Mobility Services,Traffic Operations,HM-030105,13,Operations,New position,1,10/7/2026,10/12/2026,Active - Pre-posting
+RC-0305,Mobility Services,Traffic Operations,HM-030102,14,Data & Technology,Replacement,1,10/9/2026,10/12/2026,In Progress
